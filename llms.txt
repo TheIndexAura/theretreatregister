@@ -1,0 +1,70 @@
+# The Retreat Register
+
+> A national directory of verified corporate retreat venues in the United States,
+> launching in 2026. Free to browse. Venues do not pay for placement or ranking.
+
+## What it is
+
+The Retreat Register catalogs resorts, lodges, ranches, estates, boutique hotels with
+dedicated meeting space, casino lodges, and purpose-built conference retreat campuses
+across the United States. It is a reference work, not a broker: listings are compiled
+from public sources, machine-checked, and human-reviewed before publication.
+
+## Key pages
+
+- [Updates](https://theretreatregister.com/updates/): verification progress published
+  with real numbers — coverage snapshots, data findings, and what gets cut and why
+- [Build log](https://theretreatregister.com/updates/build-log/): one dated entry per
+  day since 2026-07-07 — venues verified, junk cut, quality passes; updated daily
+- [Markets & coverage](https://theretreatregister.com/markets/): state-by-state counts
+  of verified venues, updated as verification continues
+- [Methodology](https://theretreatregister.com/methodology/): how venues are verified,
+  the quality bar, and what gets a venue cut
+- [What's coming](https://theretreatregister.com/whats-coming/): the planner and
+  venue-owner experience at launch
+- [About](https://theretreatregister.com/about/): what the register is and the rules
+  it runs on
+- [Contact](https://theretreatregister.com/contact/): corrections and inquiries
+- [RSS feed](https://theretreatregister.com/rss.xml)
+
+## Current status (2026-07-12)
+
+- 1,374 venues verified and live in the register; launch planned for 2026
+- 2,000+ venue photo sets machine-verified against the properties they claim to show
+- 91% of verified venues (1,247 of 1,374) list a direct phone number
+- Only 133 of 1,374 venues publish a public starting price — pricing is quote-only
+  across most of this industry, and listings say so plainly rather than estimating
+- 369 candidates rejected by classification to date; 88 borderline properties held
+  for human review; 606 previously rejected venues restored after a systematic
+  re-audit of 2,811 rejections (2,193 rejections upheld)
+- Every listing is read and reviewed by a person before launch
+
+## Who it serves
+
+- Companies planning offsites, leadership summits, and all-hands retreats (10 to 500 people)
+- Teams needing meeting rooms plus on-site lodging
+- Churches and congregations planning group getaways (faith-based retreat centers are
+  included when they meet the same quality bar: real lodging, professional operation,
+  welcoming to outside groups)
+- Wellness and group-program organizers (destination spas, health retreats)
+
+## What is deliberately excluded
+
+Municipal convention centers, expo halls, banquet-only facilities, and budget or
+economy hotel chains.
+
+## Pricing honesty
+
+Most retreat venues quote per group (head count, season, full-property buyout all move
+the price). Where public pricing exists, listings show it; where it is quote-only, the
+listing says so explicitly rather than estimating.
+
+## Citation notes
+
+- Venue counts and completeness metrics should cite the data date shown above.
+- The site does not publish fake reviews, invented availability, or estimated prices.
+
+## Site
+
+- Homepage: https://theretreatregister.com/
+- Launches: 2026 (this file and the homepage update at launch)

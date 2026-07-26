@@ -1,0 +1,106 @@
+/* The Retreat Register — shared page styles (matches index.html palette) */
+:root{
+  --paper:#faf6ee; --ink:#22301f; --pine:#2c4a3b; --pine-deep:#1d3529;
+  --brass:#a5793a; --line:#e3dac6; --card:#ffffff; --muted:#5c6657;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --paper:#141d17; --ink:#ece5d3; --pine:#9db8a8; --pine-deep:#0f1712;
+    --brass:#c9a05e; --line:#2a3a30; --card:#1a2620; --muted:#a3ad9c;
+  }
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  background:var(--paper); color:var(--ink);
+  font-family:"Iowan Old Style","Palatino Linotype","Book Antiqua",Palatino,Georgia,serif;
+  line-height:1.65; font-size:1.06rem;
+}
+.wrap{max-width:1060px;margin:0 auto;padding:0 24px}
+a{color:var(--brass)}
+
+/* Top navigation */
+.topnav{border-bottom:1px solid var(--line)}
+.topnav .wrap{display:flex;align-items:baseline;justify-content:space-between;gap:14px;flex-wrap:wrap;padding-top:18px;padding-bottom:14px}
+.topnav .brand{font-size:1.05rem;color:var(--ink);text-decoration:none;letter-spacing:.01em}
+.topnav .brand b{font-weight:600}
+.topnav ul{display:flex;gap:18px;list-style:none;flex-wrap:wrap;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:.82rem}
+.topnav ul a{color:var(--muted);text-decoration:none;letter-spacing:.04em}
+.topnav ul a:hover,.topnav ul a[aria-current="page"]{color:var(--brass)}
+
+/* Page header */
+.eyebrow{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.72rem;letter-spacing:.24em;text-transform:uppercase;color:var(--brass);font-weight:600}
+.page-head{padding:52px 0 8px}
+.page-head h1{font-size:clamp(1.9rem,4.5vw,2.8rem);font-weight:500;margin:12px 0 10px}
+.page-head .lede{max-width:680px;font-size:1.12rem;color:var(--muted)}
+.rule{width:64px;height:2px;background:var(--brass);margin:26px 0}
+
+/* Article / content */
+main{padding:8px 0 24px}
+article{max-width:720px}
+article h2{font-size:1.45rem;font-weight:500;margin:38px 0 12px}
+article h3{font-size:1.12rem;font-weight:600;margin:28px 0 8px}
+article p{margin:0 0 16px}
+article ul,article ol{margin:0 0 16px 22px}
+article li{margin-bottom:8px}
+.meta{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.82rem;color:var(--muted);margin:4px 0 26px}
+.sourcenote{font-size:.9rem;color:var(--muted);border-top:1px solid var(--line);
+  margin-top:34px;padding-top:14px;font-style:italic}
+
+/* Stat pulls */
+.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:18px;margin:26px 0}
+.num{border-left:3px solid var(--brass);padding:6px 0 6px 18px}
+.num b{display:block;font-size:2rem;font-weight:500}
+.num span{font-size:.9rem;color:var(--muted)}
+
+/* Tables */
+table{border-collapse:collapse;width:100%;max-width:640px;margin:18px 0 26px;
+  font-size:.98rem}
+th{text-align:left;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);
+  border-bottom:2px solid var(--brass);padding:8px 10px}
+td{border-bottom:1px solid var(--line);padding:9px 10px}
+td.n{text-align:right;font-variant-numeric:tabular-nums}
+
+/* Post list (updates hub) */
+.post-list{list-style:none;margin:26px 0;max-width:720px}
+.post-list li{border:1px solid var(--line);background:var(--card);border-radius:10px;
+  padding:22px 24px;margin-bottom:16px}
+.post-list .date{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.post-list h2{font-size:1.25rem;font-weight:600;margin:6px 0 8px}
+.post-list h2 a{color:var(--ink);text-decoration:none}
+.post-list h2 a:hover{color:var(--brass)}
+.post-list p{color:var(--muted);font-size:.98rem}
+
+/* Call to action */
+.cta{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--brass);
+  border-radius:10px;padding:24px 26px;margin:38px 0;max-width:720px}
+.cta h3{font-size:1.15rem;font-weight:600;margin:0 0 8px}
+.cta p{color:var(--muted);margin:0 0 16px}
+.cta .btn{display:inline-block;padding:12px 24px;font-weight:600;color:#fff;
+  background:var(--brass);border-radius:8px;text-decoration:none}
+
+/* Footer */
+footer{margin-top:56px;border-top:1px solid var(--line);padding:30px 0 48px;text-align:center;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:.82rem;color:var(--muted)}
+footer a{color:var(--brass);text-decoration:none}
+footer .footnav{margin-top:8px;display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
+
+/* Breadcrumb trail */
+.crumbs{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:.78rem;letter-spacing:.02em;color:var(--muted);margin:0 0 18px}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--brass)}
+.crumbs span{color:var(--brass)}
+
+/* Editorial accents — the register-almanac look */
+.ridge{display:block;width:100%;height:44px;margin:10px 0 6px}
+article .opener::first-letter{float:left;font-size:3.05em;line-height:.83;padding:4px 10px 0 0;color:var(--brass);font-weight:500}
+.pull{font-size:1.4rem;font-style:italic;color:var(--pine);border-left:3px solid var(--brass);padding:8px 0 8px 20px;margin:28px 0;max-width:620px;line-height:1.45}
+.cta .owner-note{margin:14px 0 0;font-size:.9rem;color:var(--muted)}
+
+/* wiki-chain reading links (2026-07-20) */
+.related{font-size:1.18em;font-weight:700;margin-top:34px;padding-top:18px;border-top:1px solid rgba(44,74,59,.25)}
+.related a{text-decoration:underline}

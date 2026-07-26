@@ -1,0 +1,5 @@
+# The Retreat Register — all crawlers welcome, including AI assistants.
+User-agent: *
+Allow: /
+
+Sitemap: https://theretreatregister.com/sitemap.xml
