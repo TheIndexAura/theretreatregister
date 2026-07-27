@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 26 Jul 2026 16:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 13:33:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat centers near me is the wrong search for groups</title>
+    <link>https://theretreatregister.com/updates/retreat-centers-near-me/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-centers-near-me/</guid>
+    <pubDate>Mon, 27 Jul 2026 13:33:01 +0000</pubDate>
+    <description>Near me finds what is close to your couch. Groups need airport math. How to use the register's market pages to search like a planner.</description>
+  </item>
 
   <item>
     <title>What does retreat mean when you are planning a real trip?</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-venue-pricing-quote-only/</guid>
     <pubDate>Sun, 12 Jul 2026 09:30:00 -0400</pubDate>
     <description>Most verified venues do not publish a starting price. That's not hiding — it's how group pricing works, and planners can use it.</description>
-  </item>
-
-  <item>
-    <title>Where the register stands in July</title>
-    <link>https://theretreatregister.com/updates/where-the-register-stands-july-2026/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/where-the-register-stands-july-2026/</guid>
-    <pubDate>Sun, 12 Jul 2026 09:00:00 -0400</pubDate>
-    <description>The first public coverage snapshot: which states run deepest, what got cut this month, and what the machine is scouting right now.</description>
   </item>
 
 </channel>
