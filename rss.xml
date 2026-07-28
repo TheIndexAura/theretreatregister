@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 27 Jul 2026 18:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 16:18:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Wellness retreat venues for teams: real programs, not a fruit plate</title>
+    <link>https://theretreatregister.com/updates/wellness-retreat-venues/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/wellness-retreat-venues/</guid>
+    <pubDate>Tue, 28 Jul 2026 16:18:02 +0000</pubDate>
+    <description>Company wellness offsites are booming while the word wellness means less every year. How the register flags venues actually built for it.</description>
+  </item>
 
   <item>
     <title>Yoga retreat venues: the checklist before you book the pretty studio</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/build-log/</guid>
     <pubDate>Sun, 12 Jul 2026 10:30:00 -0400</pubDate>
     <description>One dated entry per day since the pipeline first switched on — venues verified, junk cut, coverage targets, quality passes. Updated daily until launch.</description>
-  </item>
-
-  <item>
-    <title>We re-judged our own rejections. The real venues earned their way back.</title>
-    <link>https://theretreatregister.com/updates/606-second-chances/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/606-second-chances/</guid>
-    <pubDate>Sun, 12 Jul 2026 10:00:00 -0400</pubDate>
-    <description>A directory that only adds is a list; one that corrects itself is a reference work. Inside the register's biggest quality pass — both directions.</description>
   </item>
 
 </channel>
