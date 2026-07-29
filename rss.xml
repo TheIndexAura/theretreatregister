@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Jul 2026 13:33:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 22:18:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Colorado: the register's mountain workhorse</title>
+    <link>https://theretreatregister.com/updates/state-spotlight-colorado/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/state-spotlight-colorado/</guid>
+    <pubDate>Wed, 29 Jul 2026 22:18:02 +0000</pubDate>
+    <description>Colorado runs deep in the register — and not just the famous ski towns. What planners should know about the state's retreat inventory.</description>
+  </item>
 
   <item>
     <title>Book retreats through a platform? Know who pays the middleman</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/why-venue-photos-lie/</guid>
     <pubDate>Tue, 14 Jul 2026 13:33:01 +0000</pubDate>
     <description>Borrowed photos, decade-old shots, and another property's sunset — why the register machine-checks every photo set against the venue it claims to show.</description>
-  </item>
-
-  <item>
-    <title>Five questions to ask a retreat venue before you sign anything</title>
-    <link>https://theretreatregister.com/updates/five-questions-before-you-book/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/five-questions-before-you-book/</guid>
-    <pubDate>Mon, 13 Jul 2026 19:16:33 +0000</pubDate>
-    <description>The five answers that decide your real cost and your real experience — and why most planners ask none of them until it's too late.</description>
   </item>
 
 </channel>
