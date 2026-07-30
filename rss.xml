@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Jul 2026 22:18:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 16:03:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Venue owners: what claiming your listing will (and won't) get you</title>
+    <link>https://theretreatregister.com/updates/the-claiming-question/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/the-claiming-question/</guid>
+    <pubDate>Thu, 30 Jul 2026 16:03:02 +0000</pubDate>
+    <description>Claiming is free and opens at launch. Here's exactly what it changes — and the one thing it will never buy.</description>
+  </item>
 
   <item>
     <title>Colorado: the register's mountain workhorse</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/the-direct-phone-test/</guid>
     <pubDate>Wed, 15 Jul 2026 19:03:00 +0000</pubDate>
     <description>A surprising share of venue listings across the web dead-end at contact forms and chatbots. Reachability is a quality signal — and the register measures it.</description>
-  </item>
-
-  <item>
-    <title>Venue photos lie more than any other part of a listing</title>
-    <link>https://theretreatregister.com/updates/why-venue-photos-lie/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/why-venue-photos-lie/</guid>
-    <pubDate>Tue, 14 Jul 2026 13:33:01 +0000</pubDate>
-    <description>Borrowed photos, decade-old shots, and another property's sunset — why the register machine-checks every photo set against the venue it claims to show.</description>
   </item>
 
 </channel>
