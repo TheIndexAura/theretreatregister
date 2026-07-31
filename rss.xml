@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Jul 2026 16:03:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 19:48:01 +0000</lastBuildDate>
+
+  <item>
+    <title>North Carolina: mountains, coast, and the quiet retreat powerhouse between</title>
+    <link>https://theretreatregister.com/updates/state-spotlight-north-carolina/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/state-spotlight-north-carolina/</guid>
+    <pubDate>Fri, 31 Jul 2026 19:48:01 +0000</pubDate>
+    <description>From Blue Ridge lodges to coastal estates, North Carolina holds one of the register's most versatile retreat inventories.</description>
+  </item>
 
   <item>
     <title>Venue owners: what claiming your listing will (and won't) get you</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/buyouts-explained/</guid>
     <pubDate>Thu, 16 Jul 2026 13:33:01 +0000</pubDate>
     <description>Taking the whole property changes everything — price, privacy, and what your team can actually do. Here's how buyouts really work.</description>
-  </item>
-
-  <item>
-    <title>The fastest venue quality test: can you actually reach it?</title>
-    <link>https://theretreatregister.com/updates/the-direct-phone-test/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/the-direct-phone-test/</guid>
-    <pubDate>Wed, 15 Jul 2026 19:03:00 +0000</pubDate>
-    <description>A surprising share of venue listings across the web dead-end at contact forms and chatbots. Reachability is a quality signal — and the register measures it.</description>
   </item>
 
 </channel>
