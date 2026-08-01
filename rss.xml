@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 31 Jul 2026 19:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 13:18:01 +0000</lastBuildDate>
+
+  <item>
+    <title>"Quote only" is a feature, not a failure</title>
+    <link>https://theretreatregister.com/updates/why-we-say-quote-only/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/why-we-say-quote-only/</guid>
+    <pubDate>Sat, 01 Aug 2026 13:18:01 +0000</pubDate>
+    <description>The register labels missing prices honestly instead of estimating. Here's why a made-up number is worse than a gap.</description>
+  </item>
 
   <item>
     <title>North Carolina: mountains, coast, and the quiet retreat powerhouse between</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/small-markets-advantage/</guid>
     <pubDate>Fri, 17 Jul 2026 13:48:01 +0000</pubDate>
     <description>Famous destinations fight over your dates. Small markets don't. Why the register sweeps towns the big platforms skip.</description>
-  </item>
-
-  <item>
-    <title>The full buyout: the most misunderstood option in retreat planning</title>
-    <link>https://theretreatregister.com/updates/buyouts-explained/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/buyouts-explained/</guid>
-    <pubDate>Thu, 16 Jul 2026 13:33:01 +0000</pubDate>
-    <description>Taking the whole property changes everything — price, privacy, and what your team can actually do. Here's how buyouts really work.</description>
   </item>
 
 </channel>
