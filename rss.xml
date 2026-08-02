@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 01 Aug 2026 13:18:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 16:33:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Our entire marketing plan is one email</title>
+    <link>https://theretreatregister.com/updates/one-email-marketing-plan/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/one-email-marketing-plan/</guid>
+    <pubDate>Sun, 02 Aug 2026 16:33:02 +0000</pubDate>
+    <description>No drip campaigns, no countdown timers, no 'last chance.' One email when the register opens — and why that's the whole strategy.</description>
+  </item>
 
   <item>
     <title>"Quote only" is a feature, not a failure</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/church-groups-same-bar/</guid>
     <pubDate>Sat, 18 Jul 2026 13:03:47 +0000</pubDate>
     <description>Congregation getaways are a core retreat use — and faith-based centers earn their listings exactly like everyone else.</description>
-  </item>
-
-  <item>
-    <title>The small-market advantage nobody prices in</title>
-    <link>https://theretreatregister.com/updates/small-markets-advantage/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/small-markets-advantage/</guid>
-    <pubDate>Fri, 17 Jul 2026 13:48:01 +0000</pubDate>
-    <description>Famous destinations fight over your dates. Small markets don't. Why the register sweeps towns the big platforms skip.</description>
   </item>
 
 </channel>
