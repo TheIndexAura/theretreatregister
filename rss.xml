@@ -6,7 +6,23 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 02 Aug 2026 16:33:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 12:48:02 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Read the Force Majeure Clause Before You Pay a Venue</title>
+    <link>https://theretreatregister.com/updates/force-majeure-clause/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/force-majeure-clause/</guid>
+    <pubDate>Tue, 04 Aug 2026 12:48:02 +0000</pubDate>
+    <description>Hurricanes, strikes, a road washed out — the paragraph you skipped decides who eats the deposit when the world sneezes.</description>
+  </item>
+
+  <item>
+    <title>How to Find the Hidden Costs Before They Disrupt Your Retreat</title>
+    <link>https://theretreatregister.com/updates/invoice-ambush/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/invoice-ambush/</guid>
+    <pubDate>Mon, 03 Aug 2026 15:03:02 +0000</pubDate>
+    <description>The bill that lands after the retreat is the one nobody budgeted. Here's where the ambush hides, line by line.</description>
+  </item>
 
   <item>
     <title>Our entire marketing plan is one email</title>
@@ -150,22 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/corporate-retreat-venues/</guid>
     <pubDate>Mon, 20 Jul 2026 14:33:00 +0000</pubDate>
     <description>Company retreat planning starts with a venue shortlist. Here is the four-ask pass that replaces a week of tabs and unanswered forms.</description>
-  </item>
-
-  <item>
-    <title>Why venue capacity numbers are missing everywhere — including here</title>
-    <link>https://theretreatregister.com/updates/capacity-numbers-missing/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/capacity-numbers-missing/</guid>
-    <pubDate>Mon, 20 Jul 2026 04:03:02 +0000</pubDate>
-    <description>Capacity looks like a simple number. It isn't — and pretending otherwise is how planners end up with 60 people and seating for 45.</description>
-  </item>
-
-  <item>
-    <title>Faith-based retreat centers: in the register, held to the same bar</title>
-    <link>https://theretreatregister.com/updates/church-groups-same-bar/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/church-groups-same-bar/</guid>
-    <pubDate>Sat, 18 Jul 2026 13:03:47 +0000</pubDate>
-    <description>Congregation getaways are a core retreat use — and faith-based centers earn their listings exactly like everyone else.</description>
   </item>
 
 </channel>
