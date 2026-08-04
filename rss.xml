@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 04 Aug 2026 12:48:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 16:48:00 +0000</lastBuildDate>
+
+  <item>
+    <title>When Does a Retreat Deposit Become Nonrefundable?</title>
+    <link>https://theretreatregister.com/updates/deposit-clock/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/deposit-clock/</guid>
+    <pubDate>Tue, 04 Aug 2026 16:48:00 +0000</pubDate>
+    <description>Every deposit has a moment where refundable quietly becomes non-refundable. Most planners find out after it passes.</description>
+  </item>
 
   <item>
     <title>How to Read the Force Majeure Clause Before You Pay a Venue</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreats-without-travel-warnings/</guid>
     <pubDate>Mon, 20 Jul 2026 16:03:00 +0000</pubDate>
     <description>Advisories are spiking searches this week. A quiet fact: a retreat you can drive to skips the country-advisory question entirely. The case for staying domestic.</description>
-  </item>
-
-  <item>
-    <title>Corporate retreat venues: how to shortlist without losing a week</title>
-    <link>https://theretreatregister.com/updates/corporate-retreat-venues/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/corporate-retreat-venues/</guid>
-    <pubDate>Mon, 20 Jul 2026 14:33:00 +0000</pubDate>
-    <description>Company retreat planning starts with a venue shortlist. Here is the four-ask pass that replaces a week of tabs and unanswered forms.</description>
   </item>
 
 </channel>
