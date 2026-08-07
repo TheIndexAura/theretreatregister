@@ -1,0 +1,13 @@
+{
+  "name": "The Retreat Register",
+  "short_name": "Retreat Register",
+  "description": "A national register of verified corporate retreat venues. Every venue checked. No pay-to-play.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#faf6ee",
+  "theme_color": "#2c4a3b",
+  "icons": [
+    { "src": "/assets/trr-monogram-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
