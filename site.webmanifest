@@ -1,13 +1,25 @@
 {
   "name": "The Retreat Register",
   "short_name": "Retreat Register",
-  "description": "A national register of verified corporate retreat venues. Every venue checked. No pay-to-play.",
+  "description": "A national register of corporate retreat venues. Every venue checked. No pay-to-play.",
+  "id": "/",
   "start_url": "/",
-  "display": "browser",
-  "background_color": "#faf6ee",
-  "theme_color": "#2c4a3b",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f3e9",
+  "theme_color": "#0d3029",
   "icons": [
-    { "src": "/assets/trr-monogram-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+    {
+      "src": "/trr_icon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/trr_icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
