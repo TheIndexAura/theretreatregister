@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 07 Aug 2026 09:06:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 19:49:07 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Calculate the True Time and Cost of Airport Transfers</title>
+    <link>https://theretreatregister.com/updates/airport-distance-lie/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/airport-distance-lie/</guid>
+    <pubDate>Fri, 07 Aug 2026 19:49:07 +0000</pubDate>
+    <description>How to Calculate the True Time and Cost of Airport Transfers</description>
+  </item>
 
   <item>
     <title>How to Find the Hidden Costs Before They Disrupt Your Retreat</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/nervous-system-reset-retreats/</guid>
     <pubDate>Tue, 21 Jul 2026 15:03:02 +0000</pubDate>
     <description>No workshops, no icebreakers, no agenda. One of the year's rising retreat formats does less on purpose — here's how to spot a real one.</description>
-  </item>
-
-  <item>
-    <title>Couples retreat venues: the real kind, not the movie</title>
-    <link>https://theretreatregister.com/updates/couples-retreat-venues-real/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/couples-retreat-venues-real/</guid>
-    <pubDate>Mon, 20 Jul 2026 18:03:00 +0000</pubDate>
-    <description>The fastest-growing retreat segment in BookRetreats' industry survey is two people and a cabin. What actually separates a couples-ready venue from a resort with a nice brochure.</description>
   </item>
 
 </channel>
