@@ -121,6 +121,11 @@ main{flex:1 0 auto}
 
 /* the site nav links sat under the 44px touch floor */
 .topnav a{display:inline-flex; align-items:center; min-height:44px}
+/* The brand is "The <b>Retreat Register</b>". inline-flex makes those two
+   separate flex items and drops the space between them, rendering
+   "TheRetreat Register". Keep normal inline text layout for it and get the
+   44px target from line-height instead. */
+.topnav .brand{display:block; line-height:44px}
 
 .report a{color:var(--brass-text)}
 .report{
