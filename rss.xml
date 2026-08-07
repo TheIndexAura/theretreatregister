@@ -6,7 +6,7 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 06 Aug 2026 00:03:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 07:38:00 +0000</lastBuildDate>
 
   <item>
     <title>How to Verify a Venue's Insurance With One Short Email</title>
@@ -30,14 +30,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/force-majeure-clause/</guid>
     <pubDate>Tue, 04 Aug 2026 12:48:02 +0000</pubDate>
     <description>Hurricanes, strikes, a road washed out — the paragraph you skipped decides who eats the deposit when the world sneezes.</description>
-  </item>
-
-  <item>
-    <title>How to Find the Hidden Costs Before They Disrupt Your Retreat</title>
-    <link>https://theretreatregister.com/updates/invoice-ambush/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/invoice-ambush/</guid>
-    <pubDate>Mon, 03 Aug 2026 15:03:02 +0000</pubDate>
-    <description>The bill that lands after the retreat is the one nobody budgeted. Here's where the ambush hides, line by line.</description>
   </item>
 
   <item>
@@ -166,6 +158,14 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/couples-retreat-venues-real/</guid>
     <pubDate>Mon, 20 Jul 2026 18:03:00 +0000</pubDate>
     <description>The fastest-growing retreat segment in BookRetreats' industry survey is two people and a cabin. What actually separates a couples-ready venue from a resort with a nice brochure.</description>
+  </item>
+
+  <item>
+    <title>Retreat planning when the travel warnings are loud</title>
+    <link>https://theretreatregister.com/updates/retreats-without-travel-warnings/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreats-without-travel-warnings/</guid>
+    <pubDate>Mon, 20 Jul 2026 16:03:00 +0000</pubDate>
+    <description>Advisories are spiking searches this week. A quiet fact: a retreat you can drive to skips the country-advisory question entirely. The case for staying domestic.</description>
   </item>
 
 </channel>
