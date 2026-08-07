@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 07 Aug 2026 19:49:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 21:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Run a Competitive Venue Search Without Wasting Time</title>
+    <link>https://theretreatregister.com/updates/one-venue-trap/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/one-venue-trap/</guid>
+    <pubDate>Fri, 07 Aug 2026 21:03:01 +0000</pubDate>
+    <description>Touring a single property is how retreats get overpaid. The three-quote rule, and why venues count on you skipping it.</description>
+  </item>
 
   <item>
     <title>How to Calculate the True Time and Cost of Airport Transfers</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/dark-sky-retreats/</guid>
     <pubDate>Wed, 22 Jul 2026 17:48:00 +0000</pubDate>
     <description>Certified dark-sky zones, cabins built around the night sky, and why the best amenity at a growing number of venues is what you can't see.</description>
-  </item>
-
-  <item>
-    <title>The nervous-system reset retreat: the product is subtraction</title>
-    <link>https://theretreatregister.com/updates/nervous-system-reset-retreats/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/nervous-system-reset-retreats/</guid>
-    <pubDate>Tue, 21 Jul 2026 15:03:02 +0000</pubDate>
-    <description>No workshops, no icebreakers, no agenda. One of the year's rising retreat formats does less on purpose — here's how to spot a real one.</description>
   </item>
 
 </channel>
