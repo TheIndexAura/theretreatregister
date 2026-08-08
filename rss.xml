@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 08 Aug 2026 00:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 15:48:01 +0000</lastBuildDate>
+
+  <item>
+    <title>&quot;Do You Have Wi-Fi?&quot; Is Not Enough for a Company Retreat</title>
+    <link>https://theretreatregister.com/updates/wifi-question/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/wifi-question/</guid>
+    <pubDate>Sat, 08 Aug 2026 15:48:01 +0000</pubDate>
+    <description>&quot;Is there Wi-Fi&quot; gets a yes from everyone. The question that matters is what happens when forty laptops hit it at once.</description>
+  </item>
 
   <item>
     <title>Stretch Your Retreat Budget With a Well-Planned January Event</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/reading-retreats/</guid>
     <pubDate>Fri, 24 Jul 2026 14:33:01 +0000</pubDate>
     <description>A weekend where the only agenda item is a book. Why the quietest retreat format on the list is suddenly a format at all.</description>
-  </item>
-
-  <item>
-    <title>Digital-detox retreats: what phone-free actually means at a venue</title>
-    <link>https://theretreatregister.com/updates/digital-detox-retreats/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/digital-detox-retreats/</guid>
-    <pubDate>Thu, 23 Jul 2026 16:33:02 +0000</pubDate>
-    <description>The anti-tech mood is not a phase. What separates a real phone-free retreat from a resort with a polite suggestion — policy by policy.</description>
   </item>
 
 </channel>
