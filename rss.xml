@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 08 Aug 2026 15:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 14:48:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Prevent Alcohol Rules From Disrupting Your Retreat</title>
+    <link>https://theretreatregister.com/updates/alcohol-policy/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/alcohol-policy/</guid>
+    <pubDate>Sun, 09 Aug 2026 14:48:01 +0000</pubDate>
+    <description>Dry counties, corkage traps, license lines you can&#x27;t see — the question to ask before you promise anyone a toast.</description>
+  </item>
 
   <item>
     <title>&quot;Do You Have Wi-Fi?&quot; Is Not Enough for a Company Retreat</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/trauma-informed-retreats/</guid>
     <pubDate>Sat, 25 Jul 2026 13:03:00 +0000</pubDate>
     <description>A rising category with real stakes. The design choices that make a venue genuinely trauma-informed — and the line no retreat should ever claim to cross.</description>
-  </item>
-
-  <item>
-    <title>Reading retreats: the introvert economy stops apologizing</title>
-    <link>https://theretreatregister.com/updates/reading-retreats/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/reading-retreats/</guid>
-    <pubDate>Fri, 24 Jul 2026 14:33:01 +0000</pubDate>
-    <description>A weekend where the only agenda item is a book. Why the quietest retreat format on the list is suddenly a format at all.</description>
   </item>
 
 </channel>
