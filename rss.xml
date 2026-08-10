@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 09 Aug 2026 14:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 17:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How a 12-Person Team Can Find Right-Sized Retreat Venues</title>
+    <link>https://theretreatregister.com/updates/team-of-twelve/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/team-of-twelve/</guid>
+    <pubDate>Mon, 10 Aug 2026 17:03:01 +0000</pubDate>
+    <description>Too big for a house, too small for a resort&#x27;s attention — and the venues that actually want mid-size groups.</description>
+  </item>
 
   <item>
     <title>How to Prevent Alcohol Rules From Disrupting Your Retreat</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-meaning-for-planners/</guid>
     <pubDate>Sun, 26 Jul 2026 16:03:00 +0000</pubDate>
     <description>People search the definition before they search the venue. Here is the practical meaning: lodging, quiet, purpose, and enough structure to make the time away work.</description>
-  </item>
-
-  <item>
-    <title>Trauma-informed retreats: what the label should mean before you trust it</title>
-    <link>https://theretreatregister.com/updates/trauma-informed-retreats/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/trauma-informed-retreats/</guid>
-    <pubDate>Sat, 25 Jul 2026 13:03:00 +0000</pubDate>
-    <description>A rising category with real stakes. The design choices that make a venue genuinely trauma-informed — and the line no retreat should ever claim to cross.</description>
   </item>
 
 </channel>
