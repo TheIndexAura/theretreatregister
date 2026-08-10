@@ -1,0 +1,489 @@
+/* The Retreat Register - 2026 visual world.
+   Appended to assets/site.css, overriding it where the two disagree.
+
+   WHERE THIS COMES FROM
+   The share card in myimages/TRR-branding/social/ is the brand: a deep pine
+   block, the gold monogram at real size, one hairline of brass, and short
+   declarative serif lines set large. The site was using the same colours at a
+   whisper. This file sets them at the volume the card already uses.
+
+   Nothing new is invented. Same tokens, same typeface stack (Iowan Old Style,
+   which is what the card itself was set in), same URLs, same content.
+   Brass never carries small text: measured 3.61:1 on paper, which fails.
+   Brass is rules, marks and large display only. */
+
+:root{
+  --shell: 1180px;
+  --gutter: clamp(20px, 5vw, 56px);
+  /* Brass is too dark to read on the pine block. This is the same hue lifted
+     until it clears 4.5:1 against pine-deep. Light surfaces keep --brass. */
+  --brass-light:#e0bd7d;
+}
+
+/* site.css caps every .wrap at 1060px. The masthead needs the full width. */
+.wrap{max-width:var(--shell);padding-inline:var(--gutter)}
+
+/* ============================================================
+   1. MASTHEAD  -  the pine block, straight off the share card
+   ============================================================ */
+
+.masthead{
+  background:var(--pine-deep);
+  color:#f3ecdd;
+  position:relative;
+  /* NO overflow:hidden here. An overflow-hidden ancestor silently kills
+     position:sticky on any child, which is why the nav bar would not stick.
+     The sheen below is clipped by its own inset instead. */
+}
+/* One slow sheen, the only continuous motion on the page. It sits behind the
+   type at very low contrast and never moves layout. */
+.masthead::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    radial-gradient(70% 65% at 18% 18%, rgba(201,160,94,.16), transparent 60%),
+    radial-gradient(55% 55% at 88% 82%, rgba(157,184,168,.12), transparent 60%);
+  pointer-events:none;
+}
+
+.masthead-bar{
+  display:flex;align-items:center;justify-content:space-between;
+  gap:18px;flex-wrap:wrap;
+  padding-top:22px;padding-bottom:22px;
+  position:relative;
+}
+.masthead-bar .brand{
+  color:#f3ecdd;text-decoration:none;
+  font-size:1.05rem;letter-spacing:.01em;
+  display:inline-flex;align-items:center;gap:12px;
+}
+.masthead-bar .brand .wordmark{font-weight:400}
+.masthead-bar .brand .wordmark b{font-weight:600}
+.masthead-bar .brand img{
+  width:38px;height:38px;display:block;flex:none;
+}
+.masthead-bar nav ul{
+  display:flex;gap:26px;list-style:none;flex-wrap:wrap;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;
+}
+.masthead-bar nav a{color:#b9c9bd;text-decoration:none}
+.masthead-bar nav a:hover,
+.masthead-bar nav a[aria-current="page"]{color:var(--brass-light,#e0bd7d)}
+.masthead-bar nav a:focus-visible{outline:2px solid #e0bd7d;outline-offset:3px}
+
+.masthead-body{
+  position:relative;
+  padding-block:clamp(24px,3vw,40px) clamp(20px,2.5vw,30px);
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:clamp(24px,5vw,64px);
+  align-items:end;
+}
+.masthead h1{
+  font-size:clamp(2.2rem,5vw,3.7rem);
+  line-height:1.02;
+  letter-spacing:-.022em;
+  font-weight:500;
+  margin:0;
+  color:#f7f1e4;
+  text-wrap:balance;
+}
+.masthead .standfirst{
+  margin:16px 0 0;
+  max-width:60ch;
+  font-size:clamp(1rem,1.25vw,1.1rem);
+  color:#c3d0c4;
+  text-wrap:pretty;
+}
+.masthead .crumbs,
+.masthead .crumbs a{color:#8fa595}
+.masthead .crumbs a:hover{color:#e0bd7d}
+
+/* The monogram at the size the brand actually uses it. Hidden below the point
+   where it would squeeze the headline. */
+.masthead-seal{
+  width:clamp(96px,9vw,138px);
+  height:auto;
+  opacity:.92;
+  align-self:end;
+  justify-self:end;
+}
+@media (max-width:760px){
+  .masthead-body{grid-template-columns:minmax(0,1fr)}
+  .masthead-seal{display:none}
+}
+
+/* The brass hairline that closes the block, exactly as the card uses it. */
+.masthead-rule{
+  border:0;height:2px;background:var(--brass);
+  margin:0;position:relative;
+}
+
+/* ============================================================
+   2. FIND BY TOPIC  -  a rail, not a row of boxes
+   ============================================================ */
+
+.topics{margin:clamp(44px,6vw,76px) 0 clamp(34px,4vw,54px)}
+.topics > h2{
+  font-size:clamp(1.5rem,2.6vw,2rem);
+  font-weight:500;letter-spacing:-.01em;
+  margin:0 0 6px;
+}
+.topics .topics-note{
+  color:var(--muted);margin:0 0 26px;max-width:60ch;
+}
+
+.topic-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(290px,1fr));
+  gap:0 clamp(24px,3vw,40px);
+}
+.topic{
+  padding:26px 0 22px;
+  border-top:1px solid var(--line);
+  display:flex;flex-direction:column;
+}
+.topic h3{
+  display:flex;align-items:baseline;gap:12px;
+  font-size:1.28rem;font-weight:600;letter-spacing:-.005em;
+  margin:0 0 14px;
+}
+/* The count is the graphic. Gold, large, tabular, sitting against the label
+   the way the numbers sit on the share card. */
+.topic-count{
+  font-family:inherit;
+  font-size:0;              /* hides the word "articles" from sight, not from
+                               screen readers, which read the whole element */
+  color:var(--brass);
+  white-space:nowrap;
+  order:-1;
+}
+.topic-count b{
+  font-size:2.1rem;font-weight:500;line-height:1;
+  font-variant-numeric:tabular-nums;
+  letter-spacing:-.02em;
+}
+
+.topic-scroll{
+  height:9.6em;
+  overflow:hidden;
+  position:relative;
+  scrollbar-width:none;
+}
+.topic-scroll::-webkit-scrollbar{width:0;height:0}
+.topic ul{margin:0;padding:0;list-style:none}
+.topic li{margin:0 0 12px}
+.topic li a{
+  color:var(--ink);text-decoration:none;
+  display:block;line-height:1.35;
+  border-bottom:1px solid transparent;
+  padding-bottom:2px;
+  transition:border-color .2s ease,color .2s ease;
+}
+.topic li a:hover{color:var(--pine);border-bottom-color:var(--brass)}
+.topic li a:focus-visible{outline:2px solid var(--brass);outline-offset:3px;border-radius:2px}
+
+.topic-scroll::after{
+  content:"";position:absolute;left:0;right:0;bottom:0;height:2.6em;
+  background:linear-gradient(to bottom,transparent,var(--paper));
+  pointer-events:none;transition:opacity .25s ease;
+}
+.topic:hover .topic-scroll,
+.topic:focus-within .topic-scroll{overflow-y:auto}
+.topic:hover .topic-scroll::after,
+.topic:focus-within .topic-scroll::after{opacity:0}
+
+.topic-more{margin-top:auto;padding-top:6px}
+.topic summary{
+  cursor:pointer;min-height:44px;display:flex;align-items:center;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.74rem;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--pine);font-weight:600;
+}
+.topic summary::before{
+  content:"";flex:none;width:0;height:0;
+  border:5px solid transparent;border-left-color:var(--brass);
+  margin-right:10px;
+}
+.topic details[open] summary::before{transform:rotate(90deg)}
+.topic summary:focus-visible{outline:2px solid var(--brass);outline-offset:3px}
+.topic:has(.topic-more[open]) .topic-scroll{height:auto;overflow:visible}
+.topic:has(.topic-more[open]) .topic-scroll::after{opacity:0}
+
+/* ============================================================
+   3. THE FEED  -  editorial rows, no white boxes
+   The <li> markup is untouched. The robot still writes the same card.
+   ============================================================ */
+
+.post-list{list-style:none;margin:0;max-width:none;padding:0}
+.post-list li{
+  background:none;
+  border:0;
+  border-top:1px solid var(--line);
+  border-radius:0;
+  padding:clamp(26px,3vw,38px) 0;
+  margin:0;
+  display:grid;
+  grid-template-columns:minmax(140px,.22fr) minmax(0,1fr);
+  /* row gap and column gap are NOT the same number here. One value put 44px
+     between the headline and the description, which read as a broken card. */
+  gap:10px clamp(16px,3vw,44px);
+  align-items:start;
+  position:relative;
+}
+.post-list li::before{
+  content:"";
+  position:absolute;left:0;top:-1px;height:1px;width:0;
+  background:var(--brass);
+  transition:width .45s cubic-bezier(.16,1,.3,1);
+}
+.post-list li:hover::before,
+.post-list li:focus-within::before{width:100%}
+
+.post-list .date{
+  grid-column:1;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--muted);
+  padding-top:.5em;
+}
+.post-list h2{
+  grid-column:2;
+  font-size:clamp(1.35rem,2.5vw,1.95rem);
+  line-height:1.16;letter-spacing:-.012em;font-weight:500;
+  margin:0 0 10px;
+  text-wrap:balance;
+}
+.post-list h2 a{color:var(--ink);text-decoration:none}
+.post-list li:hover h2 a{color:var(--pine)}
+.post-list h2 a:focus-visible{outline:2px solid var(--brass);outline-offset:4px;border-radius:2px}
+.post-list p:not(.date){
+  grid-column:2;
+  color:var(--muted);
+  font-size:1.02rem;
+  max-width:68ch;
+  margin:0;
+  text-wrap:pretty;
+}
+@media (max-width:640px){
+  .post-list li{grid-template-columns:minmax(0,1fr);gap:10px}
+  .post-list .date{grid-column:1;padding-top:0}
+  .post-list h2,.post-list p:not(.date){grid-column:1}
+}
+
+/* ============================================================
+   4. STAT CARDS  -  the share card composition, in an article
+   ============================================================ */
+
+.stat{
+  background:var(--pine-deep);
+  color:#f3ecdd;
+  border:0;border-radius:14px;
+  padding:clamp(28px,4vw,42px);
+  margin:clamp(32px,4vw,46px) 0;
+  max-width:760px;
+  display:grid;
+  grid-template-columns:minmax(0,1fr);
+  gap:0;
+}
+.stat-figure{
+  font-size:clamp(2.8rem,7vw,4.4rem);
+  line-height:.95;font-weight:500;letter-spacing:-.028em;
+  color:var(--brass-light,#e0bd7d);
+  font-variant-numeric:tabular-nums;
+  margin:0 0 14px;
+  text-wrap:balance;
+}
+.stat-claim{
+  font-size:clamp(1.05rem,1.5vw,1.2rem);
+  line-height:1.5;
+  margin:0 0 22px;max-width:52ch;
+  color:#f3ecdd;
+  text-wrap:pretty;
+}
+.stat-cite{
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.8rem;line-height:1.6;
+  color:#b3c2b6;
+  border-top:2px solid var(--brass);
+  padding-top:14px;margin:0;
+}
+.stat-cite cite{font-style:italic}
+.stat-cite a{color:#f3ecdd;text-decoration:underline;text-underline-offset:3px}
+.stat-cite a:hover{color:var(--brass-light,#e0bd7d)}
+.stat-cite a:focus-visible{outline:2px solid var(--brass-light,#e0bd7d);outline-offset:3px;border-radius:2px}
+
+/* ============================================================
+   5. TICKER
+   ============================================================ */
+
+.ticker{
+  display:grid;
+  border-top:2px solid var(--brass);
+  border-bottom:1px solid var(--line);
+  margin:clamp(30px,4vw,44px) 0;
+  padding:16px 0;
+  max-width:760px;
+  list-style:none;
+}
+.ticker li{
+  grid-area:1/1;
+  font-size:1.02rem;
+  color:var(--ink);
+}
+.ticker li + li{opacity:0}
+.ticker b{font-weight:700;font-variant-numeric:tabular-nums;color:var(--pine)}
+.ticker .src{
+  display:block;margin-top:4px;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--muted);
+}
+
+/* ============================================================
+   6. MOTION  -  one idea: things arrive from below as you reach them
+   ============================================================ */
+
+@media (prefers-reduced-motion: no-preference){
+  @supports (animation-timeline: view()){
+    .post-list li,
+    .topic,
+    .stat{
+      opacity:0;
+      transform:translateY(16px);
+      animation:trr-in .01s linear both;
+      animation-timeline:view();
+      animation-range:entry 4% entry 34%;
+    }
+  }
+  @keyframes trr-in{to{opacity:1;transform:none}}
+
+  .dwell{
+    opacity:0;transform:translateY(10px);
+    animation:trr-in 1.1s cubic-bezier(.16,1,.3,1) 2.5s forwards;
+  }
+
+  .ticker li{animation:trr-tick 18s infinite}
+  .ticker li:nth-child(2){animation-delay:6s}
+  .ticker li:nth-child(3){animation-delay:12s}
+  @keyframes trr-tick{
+    0%{opacity:0;transform:translateY(6px)}
+    3%,31%{opacity:1;transform:none}
+    35%,100%{opacity:0}
+  }
+}
+
+@media (prefers-reduced-motion: reduce){
+  .post-list li,.topic,.stat,.dwell{opacity:1;transform:none;animation:none}
+  .post-list li::before{transition:none}
+  .ticker li{animation:none}
+  .ticker li:first-child{opacity:1}
+}
+
+/* Dark scheme: the masthead is already dark, so it only needs its edge back. */
+@media (prefers-color-scheme: dark){
+  .masthead{border-bottom:1px solid #24352b}
+  .stat{background:#0c1410;outline:1px solid #22332a}
+  .topic-scroll::after{background:linear-gradient(to bottom,transparent,var(--paper))}
+}
+
+/* ============================================================
+   7. HOW IT WORKS  -  the four steps under the masthead
+   Numbered because the order is the point: scout, check, hand
+   over, publish. Same gold numeral device as the topic rail.
+   ============================================================ */
+
+.sr-only{
+  position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+  overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;
+}
+
+.how{padding-block:clamp(18px,2vw,26px) 0}
+/* Two by two, not four across: 1 and 2 on the left, 3 and 4 on the right, so the
+   whole block clears the fold on a laptop. Collapses to one column on a phone. */
+.how-steps{
+  list-style:none;margin:0;padding:0;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:0 clamp(32px,4.5vw,72px);
+  counter-reset:step;
+  max-width:1060px;
+}
+@media (max-width:640px){
+  .how-steps{grid-template-columns:minmax(0,1fr)}
+}
+.how-steps li{
+  counter-increment:step;
+  border-top:1px solid var(--line);
+  padding:12px 0 14px;
+}
+.how-steps h3{
+  display:flex;align-items:baseline;gap:10px;
+  font-size:1.02rem;font-weight:600;letter-spacing:-.005em;
+  margin:0 0 5px;
+}
+.how-steps h3::before{
+  content:counter(step);
+  font-size:1.55rem;font-weight:500;line-height:1;
+  color:var(--brass);
+  font-variant-numeric:tabular-nums;
+  letter-spacing:-.02em;
+}
+.how-steps p{
+  color:var(--muted);
+  font-size:.96rem;
+  line-height:1.5;
+  margin:0;
+  max-width:none;      /* the grid column is the measure, not an arbitrary 36ch */
+  text-wrap:pretty;
+}
+
+/* Version B of the intro copy: a plain three-line list plus a closing paragraph. */
+.how-plain{margin:14px 0 0;padding-left:20px;color:var(--ink);max-width:60ch}
+.how-plain li{margin-bottom:8px}
+.how-tail{margin:18px 0 0;color:var(--muted);max-width:68ch;text-wrap:pretty}
+.how > h2{font-size:1.2rem;font-weight:600;margin:0}
+
+/* ============================================================
+   8. STICKY NAV BAR
+   Only the bar sticks, not the whole pine block. The block is tall,
+   and pinning all of it would eat a third of a laptop screen. The
+   headline scrolls away, the way to navigate stays.
+   ============================================================ */
+
+.masthead-shell{
+  position:sticky;
+  top:0;
+  z-index:50;
+  background:var(--pine-deep);
+}
+.masthead-bar{
+  background:var(--pine-deep);
+  /* the sheen sits behind the masthead, so the bar needs its own solid
+     fill or the page shows through once it detaches */
+}
+/* a hairline appears only once the bar is doing its job */
+.masthead-shell::after{
+  content:"";
+  position:absolute;left:0;right:0;bottom:0;height:1px;
+  background:var(--brass);
+  opacity:0;
+  transition:opacity .2s ease;
+}
+@supports (animation-timeline: scroll()){
+  .masthead-shell::after{
+    animation:bar-edge 1ms linear both;
+    animation-timeline:scroll();
+    animation-range:0 90px;
+  }
+  @keyframes bar-edge{to{opacity:.55}}
+}
+/* the page must not hide a heading behind the bar when a link jumps to it */
+:target{scroll-margin-top:90px}
+.topics,.how,.post-list{scroll-margin-top:90px}
+
+@media (prefers-reduced-motion: reduce){
+  .masthead-shell::after{transition:none;animation:none}
+}

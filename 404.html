@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>404 &middot; Not found in the register &mdash; The Retreat Register</title>
-<meta name="description" content="That page is not in the register. Find verified corporate retreat venues by market, or read how the register verifies them.">
+<meta name="description" content="That page is not in the register. Find curated corporate retreat venues by market, or read how the register curates them.">
 <meta name="robots" content="noindex, follow">
 
 <!-- Required on EVERY public page per the TRR Modern CSS Standard 2026 -->
@@ -16,6 +16,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/apple_touch_icon_180x180.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/trr2026.css?v=3">
 <style>
 /* ==========================================================================
    404 - The Retreat Register
@@ -59,24 +60,18 @@ body{
 main{flex:1 0 auto}
 
 @media (display-mode: standalone){
-  /* Installed launch has no browser chrome, so the shell needs its own breathing room */
-  .site-shell{padding-top:max(var(--page-gutter), env(safe-area-inset-top))}
+  /* Installed launch has no browser chrome, so the shell needs its own breathing room */.site-shell{padding-top:max(var(--page-gutter), env(safe-area-inset-top))}
 }
 
-/* ---------- layout ---------- */
-.nf{padding:clamp(40px,7vh,84px) 0 8px}
-.nf-grid{display:grid; gap:clamp(22px,4vw,52px); align-items:start}
-@media (min-width:820px){ .nf-grid{grid-template-columns:auto 1fr} }
-
-.seal{
+/* ---------- layout ---------- */.nf{padding:clamp(40px,7vh,84px) 0 8px}.nf-grid{display:grid; gap:clamp(22px,4vw,52px); align-items:start}
+@media (min-width:820px){.nf-grid{grid-template-columns:auto 1fr} }.seal{
   inline-size:clamp(84px,11vw,132px);
   block-size:auto;
   display:block;
 }
 
 /* The registry label. The standard names corner-shape as DECORATIVE ONLY,
-   on a single restrained element, never on every card. This is that one. */
-.registry-label{
+   on a single restrained element, never on every card. This is that one. */.registry-label{
   display:inline-block;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
   font-size:.7rem; letter-spacing:.22em; text-transform:uppercase; font-weight:600;
@@ -84,52 +79,32 @@ main{flex:1 0 auto}
   padding:7px 15px;
   border-radius:30px;                    /* fallback everywhere */
 }
-@supports (corner-shape: squircle){
-  .registry-label{ corner-shape: squircle; }
-}
-
-.nf h1{
+@supports (corner-shape: squircle){.registry-label{ corner-shape: squircle; }
+}.nf h1{
   font-size:clamp(2rem,5.2vw,3.3rem);
   font-weight:500; line-height:1.08; margin:20px 0 0; max-width:16ch;
 }
 /* text-box trims the font's built-in whitespace so the serif cap-height sits
    true against the rule above it. Ordinary line boxes are the fallback. */
-@supports (text-box: trim-both cap alphabetic){
-  .nf h1{ text-box: trim-both cap alphabetic; }
-}
-
-.gold-rule{
+@supports (text-box: trim-both cap alphabetic){.nf h1{ text-box: trim-both cap alphabetic; }
+}.gold-rule{
   inline-size:clamp(64px,9vw,104px); block-size:3px;
   background:var(--gold); border:0; margin:24px 0 22px;
   transform-origin:left center;
-}
-
-.nf .lede{max-width:56ch; font-size:1.08rem; color:var(--muted); margin:0}
-
-.doors{list-style:none; margin:30px 0 0; padding:0; display:flex; flex-wrap:wrap; gap:10px}
-.doors li{margin:0}
-.doors a{
+}.nf.lede{max-width:56ch; font-size:1.08rem; color:var(--muted); margin:0}.doors{list-style:none; margin:30px 0 0; padding:0; display:flex; flex-wrap:wrap; gap:10px}.doors li{margin:0}.doors a{
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:.92rem;
   text-decoration:none; color:var(--ink);
   border:1px solid var(--line); background:var(--card);
   border-radius:999px; padding:11px 19px;
   display:inline-block; min-height:44px; line-height:22px;   /* 44px touch floor */
   transition:border-color 200ms ease, transform 200ms ease;
-}
-.doors a:hover{border-color:var(--gold)}
-.doors a:active{transform:translateY(1px)}
-.doors a:focus-visible{outline:2px solid var(--gold); outline-offset:3px}
+}.doors a:hover{border-color:var(--gold)}.doors a:active{transform:translateY(1px)}.doors a:focus-visible{outline:2px solid var(--gold); outline-offset:3px}
 
-/* the site nav links sat under the 44px touch floor */
-.topnav a{display:inline-flex; align-items:center; min-height:44px}
+/* the site nav links sat under the 44px touch floor */.topnav a{display:inline-flex; align-items:center; min-height:44px}
 /* The brand is "The <b>Retreat Register</b>". inline-flex makes those two
    separate flex items and drops the space between them, rendering
    "TheRetreat Register". Keep normal inline text layout for it and get the
-   44px target from line-height instead. */
-.topnav .brand{display:block; line-height:44px}
-
-.report a{color:var(--brass-text)}
-.report{
+   44px target from line-height instead. */.topnav.brand{display:block; line-height:44px}.report a{color:var(--brass-text)}.report{
   margin-top:32px; padding-top:22px;
   border-top:1px solid var(--line); max-width:56ch;
 }
@@ -144,28 +119,15 @@ main{flex:1 0 auto}
    inside the motion query, so a browser without it never receives an
    invisible page.
    ========================================================================== */
-@media (prefers-reduced-motion: no-preference){
-  .seal{animation:seal-resolve 520ms cubic-bezier(.16,1,.3,1) both}
-  .gold-rule{animation:rule-extend 460ms cubic-bezier(.16,1,.3,1) 260ms both}
-  .assemble{animation:assemble-in 480ms cubic-bezier(.16,1,.3,1) both}
+@media (prefers-reduced-motion: no-preference){.seal{animation:seal-resolve 520ms cubic-bezier(.16,1,.3,1) both}.gold-rule{animation:rule-extend 460ms cubic-bezier(.16,1,.3,1) 260ms both}.assemble{animation:assemble-in 480ms cubic-bezier(.16,1,.3,1) both}
 
-  /* Real DOM positions. The .assemble run is broken by <hr> at 3 and <ul> at 5,
+  /* Real DOM positions. The.assemble run is broken by <hr> at 3 and <ul> at 5,
      so the indices are 1, 2, 4, 6 - not 1..5. No sibling-index() here: it counts
-     every sibling, including the hr and ul, so it cannot express this group. */
-  .assemble:nth-child(1){animation-delay:120ms}
-  .assemble:nth-child(2){animation-delay:190ms}
-  .assemble:nth-child(4){animation-delay:260ms}
-  .assemble:nth-child(6){animation-delay:330ms}
-  .doors li{animation:assemble-in 420ms cubic-bezier(.16,1,.3,1) both}
-  .doors li:nth-child(1){animation-delay:470ms}
-  .doors li:nth-child(2){animation-delay:530ms}
-  .doors li:nth-child(3){animation-delay:590ms}
-  .doors li:nth-child(4){animation-delay:650ms}
+     every sibling, including the hr and ul, so it cannot express this group. */.assemble:nth-child(1){animation-delay:120ms}.assemble:nth-child(2){animation-delay:190ms}.assemble:nth-child(4){animation-delay:260ms}.assemble:nth-child(6){animation-delay:330ms}.doors li{animation:assemble-in 420ms cubic-bezier(.16,1,.3,1) both}.doors li:nth-child(1){animation-delay:470ms}.doors li:nth-child(2){animation-delay:530ms}.doors li:nth-child(3){animation-delay:590ms}.doors li:nth-child(4){animation-delay:650ms}
   /* :nth-child(n) lifts this to the same specificity as the manual rules above,
      otherwise the override silently loses the cascade. The doors ARE contiguous,
      so sibling-index() is valid for them. */
-  @supports (animation-delay: calc(sibling-index() * 1ms)){
-    .doors li:nth-child(n){animation-delay:calc(410ms + sibling-index() * 60ms)}
+  @supports (animation-delay: calc(sibling-index() * 1ms)){.doors li:nth-child(n){animation-delay:calc(410ms + sibling-index() * 60ms)}
   }
 }
 
@@ -196,16 +158,24 @@ main{flex:1 0 auto}
 <body>
 <div class="site-shell">
 
-<nav class="topnav"><div class="wrap">
-  <a class="brand" href="/">The <b>Retreat Register</b></a>
-  <ul>
+<header class="masthead masthead-bare">
+  <div class="wrap masthead-bar">
+    <a class="brand" href="/">
+      <img src="/assets/trr-monogram-full.svg" alt="" width="38" height="38">
+      <span class="wordmark">The <b>Retreat Register</b></span>
+    </a>
+    <nav aria-label="Main">
+      <ul>
     <li><a href="/updates/">Updates</a></li>
     <li><a href="/markets/">Markets</a></li>
     <li><a href="/methodology/">Methodology</a></li>
     <li><a href="/whats-coming/">What&rsquo;s Coming</a></li>
     <li><a href="/about/">About</a></li>
-  </ul>
-</div></nav>
+      </ul>
+    </nav>
+  </div>
+  <hr class="masthead-rule">
+</header>
 
 <main class="wrap nf">
   <div class="nf-grid">
@@ -226,7 +196,7 @@ main{flex:1 0 auto}
         <li><a href="/">Home</a></li>
         <li><a href="/markets/">Venues by market</a></li>
         <li><a href="/updates/">Guides and updates</a></li>
-        <li><a href="/methodology/">How venues are verified</a></li>
+        <li><a href="/methodology/">How venues are checked</a></li>
       </ul>
 
       <div class="report assemble">
@@ -239,14 +209,9 @@ main{flex:1 0 auto}
   </div>
 </main>
 
-<svg class="ridge" viewBox="0 0 1200 64" preserveAspectRatio="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0 40 L120 18 L240 40 L390 12 L540 42 L660 22 L800 46 L930 16 L1060 40 L1200 24 L1200 64 L0 64 Z" fill="var(--pine)" opacity=".16"/>
-  <path d="M0 52 L150 30 L300 52 L470 24 L640 54 L800 34 L960 56 L1100 30 L1200 46 L1200 64 L0 64 Z" fill="var(--pine)" opacity=".32"/>
-  <g fill="var(--pine)" opacity=".8"><path d="M182 52 l7 -22 l7 22 Z"/><path d="M622 54 l8 -26 l8 26 Z"/><path d="M1012 54 l7 -22 l7 22 Z"/></g>
-</svg>
 
 <footer class="wrap">
-  <p>The Retreat Register, a register and not a broker. No paid placements, ever.
+  <p>The Retreat Register, a register and not a broker. 
   Found something wrong? <a href="/contact/">Tell us and we will fix it</a>.</p>
 </footer>
 
