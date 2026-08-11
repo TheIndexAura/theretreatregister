@@ -15,7 +15,7 @@
 <meta property="og:image" content="https://theretreatregister.com/assets/og-default.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="The Retreat Register. Every venue checked. A national register of corporate retreat venues.">
+<meta property="og:image:alt" content="The Retreat Register. A curated national register of corporate retreat venues.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://theretreatregister.com/assets/og-default.png">
 <link rel="alternate" type="application/rss+xml" title="The Retreat Register — Updates" href="/rss.xml">
@@ -26,7 +26,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/apple_touch_icon_180x180.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="/assets/site.css">
-<link rel="stylesheet" href="/assets/trr2026.css?v=3">
+<link rel="stylesheet" href="/assets/trr2026.css?v=8">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,7 +70,7 @@
       "about": {
         "@id": "https://theretreatregister.com/#org"
       },
-      "dateModified": "2026-07-12"
+      "dateModified": "2026-08-10"
     },
     {
       "@type": "BreadcrumbList",
@@ -116,11 +116,11 @@
   <div class="wrap masthead-body">
     <div>
       <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <span>Methodology</span></nav>
-      <p class="eyebrow">Methodology</p>
       <h1>How a venue earns its place</h1>
-      <p class="standfirst">Anyone can scrape a list of hotels. A register is different: every listing here
-  has to survive software checks and a human review. This page
-  explains the whole process — including what gets cut.</p>
+      <p class="standfirst">Anyone can copy a list of hotels. A register has to be able to show its work.
+  Every property here has to get through software checks and category rules before it is
+  published, and the ones that fail are counted in public. This page walks through that
+  process step by step, and it names what fails at each step.</p>
     </div>
     <img class="masthead-seal" src="/assets/trr-monogram-full.svg" alt="" width="190" height="190">
   </div>
@@ -147,8 +147,8 @@
       <p>Coverage snapshots, findings from the data, and how many got cut. On July 11, 2026 a person read every published row &mdash; every name, every website &mdash; and cut 274 entries the software had missed. That pass is written up, with its date and its number, in the <a href="/updates/build-log/">build log</a>.</p>
     </li>
     <li>
-      <h3>Owners take the wheel at launch</h3>
-      <p>Claiming opens free at launch. We hand the keys back to venue owners,
+      <h3>Owners take the wheel</h3>
+      <p>Claiming is free for the first 60 days after the register opens. We hand the keys back to venue owners,
       inviting them to claim, polish, and perfect their listings.</p>
     </li>
   </ol>
@@ -156,74 +156,175 @@
 
 <main class="wrap">
 <article>
-  <p class="meta">Last updated July 12, 2026 · Written by The Retreat Register</p>
+  <p class="meta">Last updated August 10, 2026 · Written by The Retreat Register</p>
 
   <h2>The short version</h2>
   <p class="pull" style="max-width:none;font-size:1.25rem">&ldquo;A venue is either good enough to be in the register, or it isn&rsquo;t in it.&rdquo;</p>
-  <p>  As of July 12, 2026:</p>
-  
+  <p>That rule was set on the first day of the project, July 7, 2026, and it still runs the
+  register.<sup><a href="#src-1">1</a></sup> It has one consequence that shapes everything
+  below. If a property cannot be shown to belong, it does not get a listing with an apology
+  attached to it. It stays out.</p>
+  <p>The Retreat Register screens for essentials before listing a venue, focusing first on a
+  direct phone number and dedicated meeting or lodging space.</p>
 
-  <h2>How does The Retreat Register check a venue?</h2>
-  <p>Every candidate goes through the same gauntlet, in this order:</p>
+  <h2>What a reference work has to do that a listings site does not</h2>
+  <p>A reference work can say that a property is not good enough, that a number is not known, or that it was wrong about something last week. The register publishes its cuts as well as its additions. The dated counts on this page are that record.</p>
+
+  <h2>Step one: finding candidates, town by town</h2>
+  <p>Candidates are found through open web search and public map data. The register does not
+  buy lists and does not copy other directories, because a bought list carries the
+  seller&rsquo;s mistakes and a copied directory carries the competitor&rsquo;s.</p>
+  <p>The sweep runs town by town rather than by famous destination. From July 8, 2026 the
+  searches were widened past the well-known markets on purpose.<sup><a href="#src-2">2</a></sup>
+  On July 11, 2026 that became a rule instead of a habit: every state was given a minimum
+  coverage target sized to its market, and the worst-covered states were moved to the front
+  of the search queue.<sup><a href="#src-4">4</a></sup></p>
+  <p><strong>What fails at this step.</strong> Public map and web data are messy, and volume
+  metrics hide the mess. On July 9, 2026 the raw candidate catalog stood near 1,850
+  properties. Reading sample rows by hand caught two entries no dashboard had flagged: a
+  luxury fashion retailer and an online dictionary, both sitting in the catalog as venues.
+  Both were cut.<sup><a href="#src-2">2</a></sup></p>
+  <p>A second failure at this step was structural rather than comic. Hotel groups that run
+  many properties from a single website were being treated as one record, which quietly hid
+  entire resort regions, including most of Hawaii&rsquo;s. On July 12, 2026 the register
+  changed to tracking each property separately.<sup><a href="#src-5">5</a></sup></p>
+
+  <h2>Step two: the software read</h2>
+  <p>Software opens the venue&rsquo;s own website and asks a short list of basic questions.
+  Is this a real property with a working site? Does it host groups, retreats, or meetings?
+  Does it have lodging or dedicated meeting space? Is there a way to reach a person?</p>
+  <p>The venue&rsquo;s own website is the reference, not a listing about the venue. A
+  property with no evidence on its own site stays out until evidence exists.</p>
+  <p><strong>What fails at this step.</strong> By July 12, 2026 the classification judge had
+  rejected 369 candidates outright, on the ground that they are not retreat venues at all.
+  That number is the judge&rsquo;s own running count and it measures one thing only:
+  businesses that do not belong in this category.</p>
+  <p>The software read also has a known blind spot, and the register found it the expensive
+  way. See step seven.</p>
+
+  <h2>Step three: the category rules</h2>
+  <p>Some kinds of property are kept out by policy, before any judgment about quality is
+  made.</p>
+  <ul>
+    <li><strong>Budget and economy hotel chains are out.</strong> They are real businesses.
+    They are not retreat venues, and listing them would waste a planner&rsquo;s
+    afternoon.</li>
+    <li><strong>Municipal convention centers and expo halls are out.</strong> On July 10,
+    2026, 95 convention and expo facilities were moved off the public list onto a review
+    shelf.<sup><a href="#src-3">3</a></sup> Two days later, 88 borderline properties were
+    still sitting on that shelf waiting for a decision from a person, so seven had been resolved in between.</li>
+    <li><strong>Banquet-only facilities are out</strong>, because a room with catering is
+    not a place a group can stay.</li>
+  </ul>
+  <p>The review shelf matters more than it sounds. A property on the shelf has not been
+  rejected and has not been published. It is a real business in the wrong category, held
+  until a person decides.</p>
+
+  <h2>Step four: the quality bar</h2>
+  <p>Four questions decide whether a property belongs.</p>
   <ol>
-    <li><strong>Cataloged from public sources.</strong> Venues are found through open web search
-    and public map data — never bought lists, never scraped competitor directories.</li>
-    <li><strong>Checked by software.</strong> Software reads each venue&rsquo;s own website and asks
-    basic questions: Is this a real property? Does it actually host groups, retreats, or
-    meetings? Does it have lodging or dedicated meeting space? A venue with no evidence stays
-    out until evidence exists.</li>
-    <li><strong>Photos.</strong> A listing never shows a different property. Until an owner claims their listing and uploads their own photos, we match the venue with a close stand-in image.</li>
-    <li><strong>Reviewed before launch.</strong> Every listing is reviewed by a person before it goes live. The ones that do not belong get cut, no matter how complete their data looks.</li>
-  </ol>
-
-  <h2>The quality bar</h2>
-  <p>Four questions decide whether a property belongs:</p>
-  <ul>
-    <li>Does it have <strong>real retreat lodging or dedicated meeting space</strong> — not just
-    rooms, but somewhere a group can actually work and stay?</li>
-    <li>Are the <strong>grounds and setting</strong> somewhere worth taking a team?</li>
-    <li>Is the operation <strong>professional</strong> — a real website, reachable contact, a
+    <li>Does it have real retreat lodging or dedicated meeting space, meaning not just
+    guest rooms, but somewhere a group can actually work and stay?</li>
+    <li>Are the grounds and the setting somewhere worth taking a team?</li>
+    <li>Is the operation professional, with a real website, a reachable contact, and a
     business that answers?</li>
-    <li>Is there a <strong>genuine welcome for outside groups</strong> — not a private facility
-    or members-only campus?</li>
-  </ul>
+    <li>Is there a genuine welcome for outside groups, rather than a private facility or a
+    members-only campus?</li>
+  </ol>
+  <p>The bar does not bend for a category. On July 10, 2026 faith-based retreat centers were
+  reviewed one at a time against those same four questions. Seven were promoted into the
+  register and two were declined.<sup><a href="#src-3">3</a></sup></p>
+  <p><strong>What fails at this step.</strong> Properties that pass the software read and
+  then fail on setting, on welcome, or on being a real operation rather than a rented
+  room.</p>
 
-  <h2>What gets cut — with receipts</h2>
-  <p>Our checks only mean something if things actually fail them. They do:</p>
-  <ul>
-    <li><strong>369 candidates</strong> have been rejected by the classification judge to date —
-    businesses that simply aren&rsquo;t retreat venues. Messy public data once tried to hand us
-    a luxury fashion retailer and an online dictionary as &ldquo;venues.&rdquo; Both caught,
-    both cut, and both now teach the filters what to watch for.</li>
-    <li><strong>Budget and economy hotel chains</strong> are kept out by policy. They&rsquo;re
-    real businesses — they&rsquo;re just not retreat venues, and pretending otherwise would
-    waste a planner&rsquo;s time.</li>
-    <li><strong>Municipal convention centers and expo halls</strong> are out. 88 borderline
-    properties currently sit on a review shelf instead of the public register, waiting for a
-    human verdict.</li>
-    <li><strong>Zero-evidence listings</strong> wait in quarantine. If we can&rsquo;t prove a
-    property is real — no working website, no address, no phone — it doesn&rsquo;t publish,
-    period.</li>
-  </ul>
-  <p>We also re-check our own rejections. In July 2026 we re-judged previously rejected
-  properties with better methods: some earned their way back in, and most stayed out. Both
-  numbers matter — a register that only adds is a list; a register that also corrects itself
-  is a reference work.</p>
+  <h2>Step five: the evidence check</h2>
+  <p>If a property cannot be shown to be real, with a working website, an address, and a
+  phone number, it does not publish. Those candidates wait in quarantine rather than going
+  live with gaps in them.</p>
+  <p>The phone number is the check that does the most work, and the numbers explain why. On
+  July 18, 2026 the register held 2,125 curated venues and 1,928 of them, or 91%, listed a
+  direct phone number.<sup><a href="#src-7">7</a></sup> That share held remarkably steady
+  while the register itself changed size dramatically. Between July 12 and July 18, 2026 the
+  register grew from 1,374 venues to 2,281 and was then cut back to 2,125. Across every one
+  of those readings the phone share stayed within half a point of
+  91%.<sup><a href="#src-9">9</a></sup><sup><a href="#src-8">8</a></sup><sup><a href="#src-7">7</a></sup>
+  A ratio that will not move while the sample nearly doubles is a property of the industry
+  rather than an artefact of a small sample.</p>
+
+  <h2>Step six: reading every published row</h2>
+  <p>On July 11, 2026 a person read every published row in the register: every name, every
+  website. That read cut 274 entries no automated filter had
+  caught.<sup><a href="#src-4">4</a></sup> Two kinds of entry made up the bulk of it. The
+  first was budget hotel chains that had slipped past the category rules. The second was
+  template-name fakes, meaning listings with plausible venue names pointing at unrelated
+  websites.</p>
+  <p>That single pass is the clearest evidence on this page, because it is one date, one
+  action, and one count. It is also the reason the register does not describe that read-through as a permanent gate. What can be shown is what was done, on the day it was
+  done.</p>
+
+  <h2>Step seven: re-trying the register&rsquo;s own rejections</h2>
+  <p>The software read had a blind spot, and it was a costly one. A venue&rsquo;s home page
+  sells the view, the spa, and the restaurant. The group business usually lives on an inner
+  page, at an address like /meetings, /groups, or /events, that the front door barely
+  mentions. A judge reading only the home page was throwing away real retreat venues.</p>
+  <p>So on July 12, 2026 the register put its entire pile of past rejections back on trial
+  against a rebuilt judge that reads those inner pages. Of 2,811 rejected properties
+  re-judged, 606 were restored to the pipeline, 2,193 rejections were upheld, and 12 were
+  set aside as obvious junk.<sup><a href="#src-6">6</a></sup> Those three figures add up to
+  the full 2,811.</p>
+  <p>An overturn rate of 21.6% is not a comfortable number to publish. It means the early
+  quality gate had been throwing away roughly one real venue for every four pieces of junk
+  it correctly cut. It is on this page because a register that only adds is a list, and a
+  register that also corrects itself is a reference work.</p>
+
+  <h2>Step eight: photographs</h2>
+  <p>A listing never shows a different property. Until an owner claims their listing and
+  uploads their own photographs, the register matches the venue with a close stand-in image,
+  and that is what the image is: a stand-in.</p>
+  <p>There is no published count of how many listings carry an owner&rsquo;s own photograph
+  against how many carry a stand-in, so no proportion is claimed here. That is a policy, not
+  a measurement.</p>
+
+  <h2>Step nine: quality passes after publication</h2>
+  <p>Cuts did not stop when the register was first cleaned. The build log records quality
+  passes that removed venues on July 18, July 22, and July 24, 2026.</p>
+  <p>The July 18 pass is the one that can be measured from outside. The register published
+  2,281 curated venues on July 17, 2026<sup><a href="#src-8">8</a></sup> and 2,125 on
+  July 18, 2026.<sup><a href="#src-7">7</a></sup> The difference is 156 venues gone in a
+  single day, and the build log entry for that date records the pass that removed them.
+  Directories publish the days they grew. This is the day the register got smaller on
+  purpose, and both figures stayed up.</p>
 
   <h2>Why is pricing so often missing?</h2>
-  <p>Because most retreat venues genuinely don&rsquo;t publish it. Group pricing moves with head
-  count, season, and whether you take the whole property — so venues quote per group. Only a small share of venues publish a public starting price. Where pricing
-  exists, the register shows it. Where it&rsquo;s quote-only, the listing says so plainly.
-  We will never print a guessed number.</p>
+  <p>Because most retreat venues genuinely do not publish it. Group pricing moves with head
+  count, season, and whether you take the whole property, so venues quote per group instead
+  of printing a rate.</p>
+  <p>The register measured how rare a published price is. On July 12, 2026, 133 of the 1,374
+  venues on file published a starting price anywhere on their own website, which is
+  9.7%.<sup><a href="#src-10">10</a></sup> Five days later, with 2,281 venues on file, 188
+  published one, which is 8.2%.<sup><a href="#src-8">8</a></sup> The share went down as the
+  sample got bigger, which suggests 9.7% was the flattering end of the range rather than the
+  typical one.</p>
+  <p>Where a venue publishes pricing, the register shows it. Where pricing is quote-only,
+  the listing says so plainly. The register does not print a guessed number, because a wrong
+  price is worse than a blank.</p>
+
+  <h2>What the register does not do</h2>
+  <p>It does not run on reviews. It does not publish an estimate dressed up as a fact. It
+  does not claim to know a venue&rsquo;s capacity when the venue has not said. Where a
+  figure is not known, the listing says that it is not known.</p>
 
   <h2>Mistakes</h2>
-  <p>A register built from public data will contain errors — the honest approach is making them
-  easy to report and fast to fix. Spot a wrong phone number, a dead website, a photo that
-  isn&rsquo;t the venue? <a href="/contact/">Tell us</a> and it gets corrected.</p>
+  <p>A register built from public data will contain errors. The honest response is to make
+  them easy to report and fast to fix. If you spot a wrong phone number, a dead website, a
+  venue that has closed, or a photograph that is not the venue,
+  <a href="/contact/">tell us</a> and it gets corrected.</p>
 
-  <p class="sourcenote">All figures on this page come from The Retreat Register&rsquo;s internal
-  venue dataset as of July 12, 2026. Numbers change as we add more venues — see
-  <a href="/updates/">Updates</a> for the latest.</p>
+  <p class="sourcenote">All figures on this page come from The Retreat Register&rsquo;s
+  internal venue dataset on the dates named beside them. Counts change as venues are added
+  and cut. See <a href="/updates/">Updates</a> for the record, and the
+  <a href="/updates/build-log/">build log</a> for dated entries.</p>
 
 <figure class="stat">
   <p class="stat-figure">October 21, 2024</p>
@@ -232,13 +333,29 @@
     <a href="https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials">Federal Trade Commission. (2024, August 22). Trade regulation rule on the use of consumer reviews and testimonials, 16 C.F.R. pt. 465. 89 Fed. Reg. 68034</a>.
   </figcaption>
 </figure>
+
+<section class="sourcenote" aria-label="Sources">
+  <p><strong>Sources</strong></p>
+  <p>Every figure above is a number this register published itself, on the date shown.</p>
+  <p id="src-1">1. The Retreat Register. <a href="/updates/build-log/">Build log</a>, entry July 7, 2026.</p>
+  <p id="src-2">2. The Retreat Register. <a href="/updates/build-log/">Build log</a>, entry July 9, 2026.</p>
+  <p id="src-3">3. The Retreat Register. <a href="/updates/build-log/">Build log</a>, entry July 10, 2026.</p>
+  <p id="src-4">4. The Retreat Register. <a href="/updates/build-log/">Build log</a>, entry July 11, 2026.</p>
+  <p id="src-5">5. The Retreat Register. <a href="/updates/build-log/">Build log</a>, entry July 12, 2026.</p>
+  <p id="src-6">6. The Retreat Register. <a href="/updates/606-second-chances/">The biggest quality pass, both directions</a>, July 12, 2026.</p>
+  <p id="src-7">7. The Retreat Register. <a href="/updates/church-groups-same-bar/">Church groups, same bar</a>, July 18, 2026.</p>
+  <p id="src-8">8. The Retreat Register. <a href="/updates/small-markets-advantage/">The small markets advantage</a>, July 17, 2026.</p>
+  <p id="src-9">9. The Retreat Register. <a href="/updates/where-the-register-stands-july-2026/">Where the register stands, July 2026</a>, July 12, 2026.</p>
+  <p id="src-10">10. The Retreat Register. <a href="/updates/retreat-venue-pricing-quote-only/">Most retreat venues will not show you a price</a>, July 12, 2026.</p>
+  <p>Outside source: Federal Trade Commission. (2024, August 22). <a href="https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials">Trade regulation rule on the use of consumer reviews and testimonials, 16 C.F.R. pt. 465. 89 Fed. Reg. 68034</a>. Carried in the stat card above.</p>
+</section>
 </article>
 
 <aside class="cta">
   <h3>Know the moment it opens</h3>
-  <p>The full register launches in 2026. One email at launch — never spam, never a shared address.</p>
+  <p>The full register launches in 2026. You get one email when the register opens.</p>
   <a class="btn" href="/#notify">Join the launch list</a>
-  <p class="owner-note"><strong>Run a venue?</strong> Same list — claiming opens at launch, free. List members get first access, before the public.</p>
+  <p class="owner-note"><strong>Are you running a venue?</strong> Claiming is free for the first 60 days after the register opens, and any member on the list gets first access before the public.</p>
 </aside>
 </main>
 
