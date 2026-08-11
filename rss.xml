@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 10 Aug 2026 17:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 07:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Find Under-the-Radar Venues That Welcome Groups</title>
+    <link>https://theretreatregister.com/updates/quiet-venues/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/quiet-venues/</guid>
+    <pubDate>Tue, 11 Aug 2026 07:03:01 +0000</pubDate>
+    <description>Practical ways planners find quiet, word-of-mouth retreat venues: peer referrals, associations, town directories, and direct calls - plus the two essentials to confirm first.</description>
+  </item>
 
   <item>
     <title>How a 12-Person Team Can Find Right-Sized Retreat Venues</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-centers-near-me/</guid>
     <pubDate>Mon, 27 Jul 2026 13:33:01 +0000</pubDate>
     <description>Near me finds what is close to your couch. Groups need airport math. How to use the register&#x27;s market pages to search like a planner.</description>
-  </item>
-
-  <item>
-    <title>What does retreat mean when you are planning a real trip?</title>
-    <link>https://theretreatregister.com/updates/retreat-meaning-for-planners/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-meaning-for-planners/</guid>
-    <pubDate>Sun, 26 Jul 2026 16:03:00 +0000</pubDate>
-    <description>People search the definition before they search the venue. Here is the practical meaning: lodging, quiet, purpose, and enough structure to make the time away work.</description>
   </item>
 
 </channel>
