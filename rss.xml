@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 11 Aug 2026 07:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 20:33:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Choose a Retreat Space That Works as Well as It Looks</title>
+    <link>https://theretreatregister.com/updates/boring-room/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/boring-room/</guid>
+    <pubDate>Tue, 11 Aug 2026 20:33:01 +0000</pubDate>
+    <description>Flashy spaces photograph well. Plain rooms ship work. What actually matters in the room where the thinking happens.</description>
+  </item>
 
   <item>
     <title>How to Find Under-the-Radar Venues That Welcome Groups</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/yoga-retreat-venues/</guid>
     <pubDate>Mon, 27 Jul 2026 18:33:01 +0000</pubDate>
     <description>Light sells photos; floors, quiet, and schedule freedom run yoga retreats. The unglamorous questions that separate venues.</description>
-  </item>
-
-  <item>
-    <title>Retreat centers near me is the wrong search for groups</title>
-    <link>https://theretreatregister.com/updates/retreat-centers-near-me/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-centers-near-me/</guid>
-    <pubDate>Mon, 27 Jul 2026 13:33:01 +0000</pubDate>
-    <description>Near me finds what is close to your couch. Groups need airport math. How to use the register&#x27;s market pages to search like a planner.</description>
   </item>
 
 </channel>
