@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 12 Aug 2026 17:18:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 22:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How Quiet Is Your Retreat Venue — Really?</title>
+    <link>https://theretreatregister.com/updates/noise-test/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/noise-test/</guid>
+    <pubDate>Wed, 12 Aug 2026 22:03:01 +0000</pubDate>
+    <description>Stand still. Say nothing. Sixty seconds tells you what the photos never will — what the place actually sounds like.</description>
+  </item>
 
   <item>
     <title>Why Pet-Friendly Policies Now Influence Retreat Bookings</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/book-retreats-direct/</guid>
     <pubDate>Wed, 29 Jul 2026 13:33:02 +0000</pubDate>
     <description>Commission models hide inside group quotes. Use platforms to browse, then go direct. The register lists the direct lines.</description>
-  </item>
-
-  <item>
-    <title>Wellness retreat venues for teams: real programs, not a fruit plate</title>
-    <link>https://theretreatregister.com/updates/wellness-retreat-venues/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/wellness-retreat-venues/</guid>
-    <pubDate>Tue, 28 Jul 2026 16:18:02 +0000</pubDate>
-    <description>Company wellness offsites are booming while the word wellness means less every year. How the register flags venues actually built for it.</description>
   </item>
 
 </channel>
