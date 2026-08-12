@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 11 Aug 2026 20:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 17:18:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Why Pet-Friendly Policies Now Influence Retreat Bookings</title>
+    <link>https://theretreatregister.com/updates/bring-the-dog/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/bring-the-dog/</guid>
+    <pubDate>Wed, 12 Aug 2026 17:18:00 +0000</pubDate>
+    <description>Pet-friendly went from quirky perk to booking requirement — and the venues that noticed are winning groups the others never see.</description>
+  </item>
 
   <item>
     <title>Choose a Retreat Space That Works as Well as It Looks</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/wellness-retreat-venues/</guid>
     <pubDate>Tue, 28 Jul 2026 16:18:02 +0000</pubDate>
     <description>Company wellness offsites are booming while the word wellness means less every year. How the register flags venues actually built for it.</description>
-  </item>
-
-  <item>
-    <title>Yoga retreat venues: the checklist before you book the pretty studio</title>
-    <link>https://theretreatregister.com/updates/yoga-retreat-venues/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/yoga-retreat-venues/</guid>
-    <pubDate>Mon, 27 Jul 2026 18:33:01 +0000</pubDate>
-    <description>Light sells photos; floors, quiet, and schedule freedom run yoga retreats. The unglamorous questions that separate venues.</description>
   </item>
 
 </channel>
