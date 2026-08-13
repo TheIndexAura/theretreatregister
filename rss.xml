@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 12 Aug 2026 22:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 14:33:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Verify a Venue Is Actually Accessible Before You Book</title>
+    <link>https://theretreatregister.com/updates/accessibility-checklist/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/accessibility-checklist/</guid>
+    <pubDate>Thu, 13 Aug 2026 14:33:01 +0000</pubDate>
+    <description>Ramps, ground-floor rooms, honest answers. The questions that decide whether everyone attends, or almost everyone.</description>
+  </item>
 
   <item>
     <title>How Quiet Is Your Retreat Venue — Really?</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/state-spotlight-colorado/</guid>
     <pubDate>Wed, 29 Jul 2026 22:18:02 +0000</pubDate>
     <description>Colorado runs deep in the register — and not just the famous ski towns. What planners should know about the state&#x27;s retreat inventory.</description>
-  </item>
-
-  <item>
-    <title>Book retreats through a platform? Know who pays the middleman</title>
-    <link>https://theretreatregister.com/updates/book-retreats-direct/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/book-retreats-direct/</guid>
-    <pubDate>Wed, 29 Jul 2026 13:33:02 +0000</pubDate>
-    <description>Commission models hide inside group quotes. Use platforms to browse, then go direct. The register lists the direct lines.</description>
   </item>
 
 </channel>
