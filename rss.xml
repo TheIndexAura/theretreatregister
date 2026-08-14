@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 13 Aug 2026 14:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 17:18:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Why a Venue Menu Does Not Tell You Enough About the Meal</title>
+    <link>https://theretreatregister.com/updates/who-runs-the-kitchen/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/who-runs-the-kitchen/</guid>
+    <pubDate>Fri, 14 Aug 2026 17:18:01 +0000</pubDate>
+    <description>A menu is a promise. Who&#x27;s cooking is the truth. The one staffing question that predicts every meal of your retreat.</description>
+  </item>
 
   <item>
     <title>How to Verify a Venue Is Actually Accessible Before You Book</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/the-claiming-question/</guid>
     <pubDate>Thu, 30 Jul 2026 16:03:02 +0000</pubDate>
     <description>Claiming is free and opens at launch. Here&#x27;s exactly what it changes — and the one thing it will never buy.</description>
-  </item>
-
-  <item>
-    <title>Colorado: the register&#x27;s mountain workhorse</title>
-    <link>https://theretreatregister.com/updates/state-spotlight-colorado/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/state-spotlight-colorado/</guid>
-    <pubDate>Wed, 29 Jul 2026 22:18:02 +0000</pubDate>
-    <description>Colorado runs deep in the register — and not just the famous ski towns. What planners should know about the state&#x27;s retreat inventory.</description>
   </item>
 
 </channel>
