@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 15 Aug 2026 12:48:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 21:33:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Find More Retreat Space for Your Budget in Texas</title>
+    <link>https://theretreatregister.com/updates/texas-underpriced/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/texas-underpriced/</guid>
+    <pubDate>Sat, 15 Aug 2026 21:33:02 +0000</pubDate>
+    <description>Hill country estates, working ranches, coastal buyouts — the retreat state that out-delivers its price tag.</description>
+  </item>
 
   <item>
     <title>Your Most Productive Retreat Session May Not Be on the Agenda</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/why-we-say-quote-only/</guid>
     <pubDate>Sat, 01 Aug 2026 13:18:01 +0000</pubDate>
     <description>The register labels missing prices honestly instead of estimating. Here&#x27;s why a made-up number is worse than a gap.</description>
-  </item>
-
-  <item>
-    <title>North Carolina: mountains, coast, and the quiet retreat powerhouse between</title>
-    <link>https://theretreatregister.com/updates/state-spotlight-north-carolina/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/state-spotlight-north-carolina/</guid>
-    <pubDate>Fri, 31 Jul 2026 19:48:01 +0000</pubDate>
-    <description>From Blue Ridge lodges to coastal estates, North Carolina holds one of the register&#x27;s most versatile retreat inventories.</description>
   </item>
 
 </channel>
