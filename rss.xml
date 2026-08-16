@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 15 Aug 2026 21:33:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 17:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Choose Between Virginia&#x27;s Coastal, Mountain, and Historic Venues</title>
+    <link>https://theretreatregister.com/updates/virginia-drive-to/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/virginia-drive-to/</guid>
+    <pubDate>Sun, 16 Aug 2026 17:03:01 +0000</pubDate>
+    <description>Blue Ridge quiet within a tank of gas of half the East Coast — and somehow still not the default.</description>
+  </item>
 
   <item>
     <title>Find More Retreat Space for Your Budget in Texas</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/one-email-marketing-plan/</guid>
     <pubDate>Sun, 02 Aug 2026 16:33:02 +0000</pubDate>
     <description>No drip campaigns, no countdown timers, no &#x27;last chance.&#x27; One email when the register opens — and why that&#x27;s the whole strategy.</description>
-  </item>
-
-  <item>
-    <title>&quot;Quote only&quot; is a feature, not a failure</title>
-    <link>https://theretreatregister.com/updates/why-we-say-quote-only/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/why-we-say-quote-only/</guid>
-    <pubDate>Sat, 01 Aug 2026 13:18:01 +0000</pubDate>
-    <description>The register labels missing prices honestly instead of estimating. Here&#x27;s why a made-up number is worse than a gap.</description>
   </item>
 
 </channel>
