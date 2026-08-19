@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 18 Aug 2026 18:48:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 14:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Pick a Glamping Venue That Works for a Group Retreat</title>
+    <link>https://theretreatregister.com/updates/glamping-for-groups/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/glamping-for-groups/</guid>
+    <pubDate>Wed, 19 Aug 2026 14:03:01 +0000</pubDate>
+    <description>Canvas and stars, yes — but bathrooms, weather plans, and a real meeting space decide whether glamping works for a team.</description>
+  </item>
 
   <item>
     <title>Why Planners Are Booking Farm and Ranch Retreats in 2026</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/deposit-clock/</guid>
     <pubDate>Tue, 04 Aug 2026 16:48:00 +0000</pubDate>
     <description>Every deposit has a moment where refundable quietly becomes non-refundable. Most planners find out after it passes.</description>
-  </item>
-
-  <item>
-    <title>How to Read the Force Majeure Clause Before You Pay a Venue</title>
-    <link>https://theretreatregister.com/updates/force-majeure-clause/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/force-majeure-clause/</guid>
-    <pubDate>Tue, 04 Aug 2026 12:48:02 +0000</pubDate>
-    <description>Hurricanes, strikes, a road washed out — the paragraph you skipped decides who eats the deposit when the world sneezes.</description>
   </item>
 
 </channel>
