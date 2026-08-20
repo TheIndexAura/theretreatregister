@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 19 Aug 2026 14:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 07:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>What Happens at a Silent Retreat (and Who Should Book One)</title>
+    <link>https://theretreatregister.com/updates/silent-retreat-explained/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/silent-retreat-explained/</guid>
+    <pubDate>Thu, 20 Aug 2026 07:03:01 +0000</pubDate>
+    <description>No talking, no phone, no icebreakers — one of the register&#x27;s rising trend terms, explained before you book one by accident.</description>
+  </item>
 
   <item>
     <title>How to Pick a Glamping Venue That Works for a Group Retreat</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/insurance-email/</guid>
     <pubDate>Thu, 06 Aug 2026 00:03:02 +0000</pubDate>
     <description>One short email — asking for a certificate of insurance — tells you more about a venue in a day than a week of tours.</description>
-  </item>
-
-  <item>
-    <title>When Does a Retreat Deposit Become Nonrefundable?</title>
-    <link>https://theretreatregister.com/updates/deposit-clock/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/deposit-clock/</guid>
-    <pubDate>Tue, 04 Aug 2026 16:48:00 +0000</pubDate>
-    <description>Every deposit has a moment where refundable quietly becomes non-refundable. Most planners find out after it passes.</description>
   </item>
 
 </channel>
