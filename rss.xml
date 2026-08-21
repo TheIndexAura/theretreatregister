@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 21 Aug 2026 00:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 16:48:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Build a Quote Comparison Sheet Before the Second Venue Replies</title>
+    <link>https://theretreatregister.com/updates/quote-comparison-sheet/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/quote-comparison-sheet/</guid>
+    <pubDate>Fri, 21 Aug 2026 16:48:01 +0000</pubDate>
+    <description>Venue quotes arrive in formats that refuse to line up. A one-page sheet normalizes them before memory starts filling the gaps.</description>
+  </item>
 
   <item>
     <title>How to Write a Venue Inquiry Email That Gets Comparable Answers</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/airport-distance-lie/</guid>
     <pubDate>Fri, 07 Aug 2026 19:49:07 +0000</pubDate>
     <description>How to Calculate the True Time and Cost of Airport Transfers</description>
-  </item>
-
-  <item>
-    <title>How to Find the Hidden Costs Before They Disrupt Your Retreat</title>
-    <link>https://theretreatregister.com/updates/invoice-ambush/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/invoice-ambush/</guid>
-    <pubDate>Fri, 07 Aug 2026 09:06:00 +0000</pubDate>
-    <description>Deposits, minimums and fees that appear after the quote. What to ask before you sign.</description>
   </item>
 
 </channel>
