@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 20 Aug 2026 07:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 00:48:01 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Write a Venue Inquiry Email That Gets Comparable Answers</title>
+    <link>https://theretreatregister.com/updates/write-the-rfp-email/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/write-the-rfp-email/</guid>
+    <pubDate>Fri, 21 Aug 2026 00:48:01 +0000</pubDate>
+    <description>One well-built inquiry email, sent to every venue on the list, turns a pile of mismatched replies into a clean comparison.</description>
+  </item>
 
   <item>
     <title>What Happens at a Silent Retreat (and Who Should Book One)</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/invoice-ambush/</guid>
     <pubDate>Fri, 07 Aug 2026 09:06:00 +0000</pubDate>
     <description>Deposits, minimums and fees that appear after the quote. What to ask before you sign.</description>
-  </item>
-
-  <item>
-    <title>How to Verify a Venue&#x27;s Insurance With One Short Email</title>
-    <link>https://theretreatregister.com/updates/insurance-email/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/insurance-email/</guid>
-    <pubDate>Thu, 06 Aug 2026 00:03:02 +0000</pubDate>
-    <description>One short email — asking for a certificate of insurance — tells you more about a venue in a day than a week of tours.</description>
   </item>
 
 </channel>
