@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 24 Aug 2026 14:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 19:33:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Every Outdoor Retreat Needs a Rain Plan: Build One in an Hour</title>
+    <link>https://theretreatregister.com/updates/rain-plan/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/rain-plan/</guid>
+    <pubDate>Tue, 25 Aug 2026 19:33:00 +0000</pubDate>
+    <description>The backup-space question decides whether weather cancels the agenda or just moves it indoors. Most planners ask it too late.</description>
+  </item>
 
   <item>
     <title>The Site Visit Checklist: What to Confirm Before You Sign</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/wifi-question/</guid>
     <pubDate>Sat, 08 Aug 2026 15:48:01 +0000</pubDate>
     <description>&quot;Is there Wi-Fi&quot; gets a yes from everyone. The question that matters is what happens when forty laptops hit it at once.</description>
-  </item>
-
-  <item>
-    <title>Stretch Your Retreat Budget With a Well-Planned January Event</title>
-    <link>https://theretreatregister.com/updates/january-secret/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/january-secret/</guid>
-    <pubDate>Sat, 08 Aug 2026 00:33:01 +0000</pubDate>
-    <description>The same cabin, the same fireplace, a fraction of the fight for dates — shoulder-season math the industry would rather you not do.</description>
   </item>
 
 </channel>
