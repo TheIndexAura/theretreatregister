@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 28 Aug 2026 14:18:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 13:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Two Nights or Three? Choose the Right Retreat Length</title>
+    <link>https://theretreatregister.com/updates/two-nights-or-three/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/two-nights-or-three/</guid>
+    <pubDate>Tue, 01 Sep 2026 13:03:00 +0000</pubDate>
+    <description>Retreat length is a math problem: arrival and departure eat the edges, so the middle days are what the group actually buys.</description>
+  </item>
 
   <item>
     <title>How Far Ahead to Book a Retreat Venue, by Season and Group Size</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/team-of-twelve/</guid>
     <pubDate>Mon, 10 Aug 2026 17:03:01 +0000</pubDate>
     <description>Too big for a house, too small for a resort&#x27;s attention — and the venues that actually want mid-size groups.</description>
-  </item>
-
-  <item>
-    <title>How to Prevent Alcohol Rules From Disrupting Your Retreat</title>
-    <link>https://theretreatregister.com/updates/alcohol-policy/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/alcohol-policy/</guid>
-    <pubDate>Sun, 09 Aug 2026 14:48:01 +0000</pubDate>
-    <description>Dry counties, corkage traps, license lines you can&#x27;t see — the question to ask before you promise anyone a toast.</description>
   </item>
 
 </channel>
