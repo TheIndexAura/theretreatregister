@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 01 Sep 2026 13:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 18:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Shared Rooms or Singles? Decide Before You Shortlist</title>
+    <link>https://theretreatregister.com/updates/room-assignments/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/room-assignments/</guid>
+    <pubDate>Fri, 04 Sep 2026 18:03:00 +0000</pubDate>
+    <description>Lodging configuration silently disqualifies venues. Deciding the sharing question first makes every later step honest.</description>
+  </item>
 
   <item>
     <title>Two Nights or Three? Choose the Right Retreat Length</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/quiet-venues/</guid>
     <pubDate>Tue, 11 Aug 2026 07:03:01 +0000</pubDate>
     <description>Practical ways planners find quiet, word-of-mouth retreat venues: peer referrals, associations, town directories, and direct calls - plus the two essentials to confirm first.</description>
-  </item>
-
-  <item>
-    <title>How a 12-Person Team Can Find Right-Sized Retreat Venues</title>
-    <link>https://theretreatregister.com/updates/team-of-twelve/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/team-of-twelve/</guid>
-    <pubDate>Mon, 10 Aug 2026 17:03:01 +0000</pubDate>
-    <description>Too big for a house, too small for a resort&#x27;s attention — and the venues that actually want mid-size groups.</description>
   </item>
 
 </channel>
