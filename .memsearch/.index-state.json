@@ -1,0 +1,18 @@
+{
+  "collection": "ms_repo_6f5bd9b6",
+  "failed_files": [],
+  "indexed_chunks": 3,
+  "indexed_files": 1,
+  "last_completed_at": "2026-09-10T01:48:53.968283Z",
+  "last_started_at": "2026-09-10T01:48:50.720860Z",
+  "last_success_at": "2026-09-10T01:48:53.968283Z",
+  "milvus_uri": "http://milvus.internal:19530",
+  "operation": "index",
+  "paths": [
+    "C:/CKB/Projects/TRR-Google_visibility_repair/repo/.memsearch/memory"
+  ],
+  "schema_version": 1,
+  "status": "ok",
+  "total_files": 1,
+  "updated_at": "2026-09-10T01:48:53.968283Z"
+}
