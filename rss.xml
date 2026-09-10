@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 09 Sep 2026 18:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 01:48:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Executive Offsite or Team Retreat? Two Different Venue Searches</title>
+    <link>https://theretreatregister.com/updates/offsite-vs-retreat/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/offsite-vs-retreat/</guid>
+    <pubDate>Thu, 10 Sep 2026 01:48:01 +0000</pubDate>
+    <description>The same word hides two products: boardroom privacy for a few decision-makers, or connection space for the whole team.</description>
+  </item>
 
   <item>
     <title>Bring Your Own Facilitator or Book the Venue&#x27;s? How to Decide</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/three-meals-a-day/</guid>
     <pubDate>Sat, 15 Aug 2026 12:48:02 +0000</pubDate>
     <description>The sessions get the agenda. The table gets the breakthroughs. Why mealtime logistics decide the mood of the whole trip.</description>
-  </item>
-
-  <item>
-    <title>Why a Venue Menu Does Not Tell You Enough About the Meal</title>
-    <link>https://theretreatregister.com/updates/who-runs-the-kitchen/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/who-runs-the-kitchen/</guid>
-    <pubDate>Fri, 14 Aug 2026 17:18:01 +0000</pubDate>
-    <description>A menu is a promise. Who&#x27;s cooking is the truth. The one staffing question that predicts every meal of your retreat.</description>
   </item>
 
 </channel>
