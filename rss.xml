@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 10 Sep 2026 14:48:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 03:48:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Fall Retreats: Book Around Foliage Windows, Not Against Them</title>
+    <link>https://theretreatregister.com/updates/fall-foliage-timing/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/fall-foliage-timing/</guid>
+    <pubDate>Fri, 11 Sep 2026 03:48:02 +0000</pubDate>
+    <description>Peak-leaf weeks behave like high season. Timing a fall retreat either buys the view or buys a bidding war.</description>
+  </item>
 
   <item>
     <title>Tennessee Retreat Venues: Mountains, Music Towns, and Drive-To Reach</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/virginia-drive-to/</guid>
     <pubDate>Sun, 16 Aug 2026 17:03:01 +0000</pubDate>
     <description>Blue Ridge quiet within a tank of gas of half the East Coast — and somehow still not the default.</description>
-  </item>
-
-  <item>
-    <title>Find More Retreat Space for Your Budget in Texas</title>
-    <link>https://theretreatregister.com/updates/texas-underpriced/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/texas-underpriced/</guid>
-    <pubDate>Sat, 15 Aug 2026 21:33:02 +0000</pubDate>
-    <description>Hill country estates, working ranches, coastal buyouts — the retreat state that out-delivers its price tag.</description>
   </item>
 
 </channel>
