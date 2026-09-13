@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 12 Sep 2026 13:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 13:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Bathroom Math: the Comfort Number Many Listings Leave Out</title>
+    <link>https://theretreatregister.com/updates/bathroom-math/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/bathroom-math/</guid>
+    <pubDate>Sun, 13 Sep 2026 13:03:00 +0000</pubDate>
+    <description>People-per-bathroom predicts morning friction better than almost any amenity - and it takes one minute to calculate from a listing.</description>
+  </item>
 
   <item>
     <title>Event Insurance for Retreats: What It Covers, When to Buy</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/silent-retreat-explained/</guid>
     <pubDate>Thu, 20 Aug 2026 07:03:01 +0000</pubDate>
     <description>No talking, no phone, no icebreakers — one of the register&#x27;s rising trend terms, explained before you book one by accident.</description>
-  </item>
-
-  <item>
-    <title>How to Pick a Glamping Venue That Works for a Group Retreat</title>
-    <link>https://theretreatregister.com/updates/glamping-for-groups/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/glamping-for-groups/</guid>
-    <pubDate>Wed, 19 Aug 2026 14:03:01 +0000</pubDate>
-    <description>Canvas and stars, yes — but bathrooms, weather plans, and a real meeting space decide whether glamping works for a team.</description>
   </item>
 
 </channel>
