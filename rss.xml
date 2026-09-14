@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 13 Sep 2026 13:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 13:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Self-Catering or Full Catering? Decide by Group, Not Price</title>
+    <link>https://theretreatregister.com/updates/self-catering-decision/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/self-catering-decision/</guid>
+    <pubDate>Mon, 14 Sep 2026 13:03:01 +0000</pubDate>
+    <description>Kitchen access is a retreat activity for some groups and a hidden job for others. A fit test that runs deeper than the food budget.</description>
+  </item>
 
   <item>
     <title>Bathroom Math: the Comfort Number Many Listings Leave Out</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/write-the-rfp-email/</guid>
     <pubDate>Fri, 21 Aug 2026 00:48:01 +0000</pubDate>
     <description>One well-built inquiry email, sent to every venue on the list, turns a pile of mismatched replies into a clean comparison.</description>
-  </item>
-
-  <item>
-    <title>What Happens at a Silent Retreat (and Who Should Book One)</title>
-    <link>https://theretreatregister.com/updates/silent-retreat-explained/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/silent-retreat-explained/</guid>
-    <pubDate>Thu, 20 Aug 2026 07:03:01 +0000</pubDate>
-    <description>No talking, no phone, no icebreakers — one of the register&#x27;s rising trend terms, explained before you book one by accident.</description>
   </item>
 
 </channel>
