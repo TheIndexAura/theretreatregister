@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 14 Sep 2026 13:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 14:33:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Group Glamping: The Questions to Ask Before You Book for Twelve</title>
+    <link>https://theretreatregister.com/updates/group-glamping/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/group-glamping/</guid>
+    <pubDate>Tue, 15 Sep 2026 14:33:02 +0000</pubDate>
+    <description>Glamping photos are shot for two people. Booking one for a group changes what you need to ask, and most of it is not on the listing.</description>
+  </item>
 
   <item>
     <title>Self-Catering or Full Catering? Decide by Group, Not Price</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/quote-comparison-sheet/</guid>
     <pubDate>Fri, 21 Aug 2026 16:48:01 +0000</pubDate>
     <description>Venue quotes arrive in formats that refuse to line up. A one-page sheet normalizes them before memory starts filling the gaps.</description>
-  </item>
-
-  <item>
-    <title>How to Write a Venue Inquiry Email That Gets Comparable Answers</title>
-    <link>https://theretreatregister.com/updates/write-the-rfp-email/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/write-the-rfp-email/</guid>
-    <pubDate>Fri, 21 Aug 2026 00:48:01 +0000</pubDate>
-    <description>One well-built inquiry email, sent to every venue on the list, turns a pile of mismatched replies into a clean comparison.</description>
   </item>
 
 </channel>
