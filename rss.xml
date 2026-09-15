@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 15 Sep 2026 14:33:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 23:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Board Retreats Need Privacy: How to Screen Venues for It</title>
+    <link>https://theretreatregister.com/updates/board-retreat-privacy/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/board-retreat-privacy/</guid>
+    <pubDate>Tue, 15 Sep 2026 23:03:01 +0000</pubDate>
+    <description>Exclusive use, sound separation, and staff discretion - the privacy questions to settle in writing before a board meets anywhere.</description>
+  </item>
 
   <item>
     <title>Group Glamping: The Questions to Ask Before You Book for Twelve</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/attrition-clause/</guid>
     <pubDate>Sat, 22 Aug 2026 04:48:02 +0000</pubDate>
     <description>The contract line that bills the group for beds nobody slept in - how to find it, read it, and negotiate it before signing.</description>
-  </item>
-
-  <item>
-    <title>Build a Quote Comparison Sheet Before the Second Venue Replies</title>
-    <link>https://theretreatregister.com/updates/quote-comparison-sheet/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/quote-comparison-sheet/</guid>
-    <pubDate>Fri, 21 Aug 2026 16:48:01 +0000</pubDate>
-    <description>Venue quotes arrive in formats that refuse to line up. A one-page sheet normalizes them before memory starts filling the gaps.</description>
   </item>
 
 </channel>
