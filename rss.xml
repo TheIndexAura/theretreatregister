@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 16 Sep 2026 15:48:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 13:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Shipping Materials to a Venue: Confirm Receiving First</title>
+    <link>https://theretreatregister.com/updates/shipping-to-venue/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/shipping-to-venue/</guid>
+    <pubDate>Thu, 17 Sep 2026 13:03:00 +0000</pubDate>
+    <description>Boxes arrive before planners do. Receiving policy, storage, and labeling conventions prevent the missing-box scramble.</description>
+  </item>
 
   <item>
     <title>Winter Retreats: Settle the Snow Questions Before You Book</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/rain-plan/</guid>
     <pubDate>Tue, 25 Aug 2026 19:33:00 +0000</pubDate>
     <description>The backup-space question decides whether weather cancels the agenda or just moves it indoors. Most planners ask it too late.</description>
-  </item>
-
-  <item>
-    <title>The Site Visit Checklist: What to Confirm Before You Sign</title>
-    <link>https://theretreatregister.com/updates/site-visit-checklist/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/site-visit-checklist/</guid>
-    <pubDate>Mon, 24 Aug 2026 14:03:01 +0000</pubDate>
-    <description>Listings answer the easy questions. A visit answers water pressure, walking distances, cell coverage, and how the place actually sounds.</description>
   </item>
 
 </channel>
