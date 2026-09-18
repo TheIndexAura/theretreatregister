@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 17 Sep 2026 13:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 00:48:00 +0000</lastBuildDate>
+
+  <item>
+    <title>How Nonprofits Find Retreat Venues That Fit Tight Budgets</title>
+    <link>https://theretreatregister.com/updates/nonprofit-retreat-budget/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/nonprofit-retreat-budget/</guid>
+    <pubDate>Fri, 18 Sep 2026 00:48:00 +0000</pubDate>
+    <description>Off-peak dates, simple lodging tiers, and venues whose mission matches - a search strategy, not a discount hunt.</description>
+  </item>
 
   <item>
     <title>Shipping Materials to a Venue: Confirm Receiving First</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/booking-lead-time/</guid>
     <pubDate>Fri, 28 Aug 2026 14:18:15 +0000</pubDate>
     <description>Booking lead time is a sliding scale, not one magic number - peak seasons and bigger groups move it by months.</description>
-  </item>
-
-  <item>
-    <title>Every Outdoor Retreat Needs a Rain Plan: Build One in an Hour</title>
-    <link>https://theretreatregister.com/updates/rain-plan/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/rain-plan/</guid>
-    <pubDate>Tue, 25 Aug 2026 19:33:00 +0000</pubDate>
-    <description>The backup-space question decides whether weather cancels the agenda or just moves it indoors. Most planners ask it too late.</description>
   </item>
 
 </channel>
