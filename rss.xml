@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 18 Sep 2026 00:48:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 13:48:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat House, Retreat Center, or Lodge? Pick the Category First</title>
+    <link>https://theretreatregister.com/updates/retreat-house-vs-center/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-house-vs-center/</guid>
+    <pubDate>Fri, 18 Sep 2026 13:48:02 +0000</pubDate>
+    <description>The three venue categories serve different group sizes and service levels. Choosing the category first cuts the search in half.</description>
+  </item>
 
   <item>
     <title>How Nonprofits Find Retreat Venues That Fit Tight Budgets</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/two-nights-or-three/</guid>
     <pubDate>Tue, 01 Sep 2026 13:03:00 +0000</pubDate>
     <description>Retreat length is a math problem: arrival and departure eat the edges, so the middle days are what the group actually buys.</description>
-  </item>
-
-  <item>
-    <title>How Far Ahead to Book a Retreat Venue, by Season and Group Size</title>
-    <link>https://theretreatregister.com/updates/booking-lead-time/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/booking-lead-time/</guid>
-    <pubDate>Fri, 28 Aug 2026 14:18:15 +0000</pubDate>
-    <description>Booking lead time is a sliding scale, not one magic number - peak seasons and bigger groups move it by months.</description>
   </item>
 
 </channel>
