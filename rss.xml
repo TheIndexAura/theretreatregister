@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 18 Sep 2026 13:48:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 23:33:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Lake, Mountain, or Desert: Match the Setting to the Retreat&#x27;s Job</title>
+    <link>https://theretreatregister.com/updates/setting-decision/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/setting-decision/</guid>
+    <pubDate>Sat, 19 Sep 2026 23:33:01 +0000</pubDate>
+    <description>Setting is a tool - water calms, elevation isolates, desert strips distraction. Pick by agenda, not postcard.</description>
+  </item>
 
   <item>
     <title>Retreat House, Retreat Center, or Lodge? Pick the Category First</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/room-assignments/</guid>
     <pubDate>Fri, 04 Sep 2026 18:03:00 +0000</pubDate>
     <description>Lodging configuration silently disqualifies venues. Deciding the sharing question first makes every later step honest.</description>
-  </item>
-
-  <item>
-    <title>Two Nights or Three? Choose the Right Retreat Length</title>
-    <link>https://theretreatregister.com/updates/two-nights-or-three/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/two-nights-or-three/</guid>
-    <pubDate>Tue, 01 Sep 2026 13:03:00 +0000</pubDate>
-    <description>Retreat length is a math problem: arrival and departure eat the edges, so the middle days are what the group actually buys.</description>
   </item>
 
 </channel>
