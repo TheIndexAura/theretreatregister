@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 19 Sep 2026 23:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 15:33:02 +0000</lastBuildDate>
+
+  <item>
+    <title>The One-Day Retreat: When Skipping the Overnight Is Right</title>
+    <link>https://theretreatregister.com/updates/day-retreat/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/day-retreat/</guid>
+    <pubDate>Sun, 20 Sep 2026 15:33:02 +0000</pubDate>
+    <description>Sometimes eight focused hours beat two logistics-heavy nights. The honest test for going overnight-free.</description>
+  </item>
 
   <item>
     <title>Lake, Mountain, or Desert: Match the Setting to the Retreat&#x27;s Job</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-budget-lines/</guid>
     <pubDate>Fri, 04 Sep 2026 22:48:01 +0000</pubDate>
     <description>Lodging and food are the easy rows. The budget breaks on transport gaps, gratuities, supplies, insurance, and the missing contingency line.</description>
-  </item>
-
-  <item>
-    <title>Shared Rooms or Singles? Decide Before You Shortlist</title>
-    <link>https://theretreatregister.com/updates/room-assignments/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/room-assignments/</guid>
-    <pubDate>Fri, 04 Sep 2026 18:03:00 +0000</pubDate>
-    <description>Lodging configuration silently disqualifies venues. Deciding the sharing question first makes every later step honest.</description>
   </item>
 
 </channel>
