@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 21 Sep 2026 14:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 14:18:01 +0000</lastBuildDate>
+
+  <item>
+    <title>The Indemnification Clause: Find Out Who Pays When Something Goes Wrong</title>
+    <link>https://theretreatregister.com/updates/indemnification-clause/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/indemnification-clause/</guid>
+    <pubDate>Tue, 22 Sep 2026 14:18:01 +0000</pubDate>
+    <description>One paragraph in a venue contract deals with who bears the cost of an accident or a claim. How to read it, and the questions to bring to an attorney.</description>
+  </item>
 
   <item>
     <title>Retreat Liability Insurance: Ask Who Covers the Facilitators and Vendors You Bring</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/dietary-restrictions-plan/</guid>
     <pubDate>Mon, 07 Sep 2026 03:48:00 +0000</pubDate>
     <description>Collect once, in writing, with severity flags - and get the list to the venue kitchen far enough ahead to matter.</description>
-  </item>
-
-  <item>
-    <title>One Big Room Is Not Enough: Plan for Breakout Spaces</title>
-    <link>https://theretreatregister.com/updates/breakout-spaces/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/breakout-spaces/</guid>
-    <pubDate>Sun, 06 Sep 2026 13:03:00 +0000</pubDate>
-    <description>The main hall photographs well, but small-group work is where most agendas actually happen - and many venues cannot host it.</description>
   </item>
 
 </channel>
