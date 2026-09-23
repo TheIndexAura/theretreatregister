@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 22 Sep 2026 14:18:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 14:33:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Liability Waivers for Retreats: Decide What Guests Sign and When</title>
+    <link>https://theretreatregister.com/updates/liability-waivers/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/liability-waivers/</guid>
+    <pubDate>Wed, 23 Sep 2026 14:33:00 +0000</pubDate>
+    <description>Hikes, cold plunges, horses, and ropes courses can raise the waiver question. Who writes it, who collects it, and when guests should see it.</description>
+  </item>
 
   <item>
     <title>The Indemnification Clause: Find Out Who Pays When Something Goes Wrong</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/group-arrival-plan/</guid>
     <pubDate>Mon, 07 Sep 2026 14:33:01 +0000</pubDate>
     <description>Arrival is the first session of the retreat. Three arrival models, and how to pick the one that fits the group and the venue.</description>
-  </item>
-
-  <item>
-    <title>How to Collect Dietary Restrictions So the Kitchen Can Deliver</title>
-    <link>https://theretreatregister.com/updates/dietary-restrictions-plan/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/dietary-restrictions-plan/</guid>
-    <pubDate>Mon, 07 Sep 2026 03:48:00 +0000</pubDate>
-    <description>Collect once, in writing, with severity flags - and get the list to the venue kitchen far enough ahead to matter.</description>
   </item>
 
 </channel>
