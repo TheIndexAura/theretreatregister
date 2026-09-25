@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 23 Sep 2026 14:33:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 13:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Room Blocks Explained: Learn the Terms Before You Reserve Group Rooms</title>
+    <link>https://theretreatregister.com/updates/room-block-explained/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/room-block-explained/</guid>
+    <pubDate>Fri, 25 Sep 2026 13:03:01 +0000</pubDate>
+    <description>A room block holds rooms for a group under one contract. How the block, the pickup, and the attrition terms fit together.</description>
+  </item>
 
   <item>
     <title>Liability Waivers for Retreats: Decide What Guests Sign and When</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/facilitator-question/</guid>
     <pubDate>Wed, 09 Sep 2026 18:48:01 +0000</pubDate>
     <description>Who runs the room changes what the venue needs to provide. A short decision rule for each path, asked before booking.</description>
-  </item>
-
-  <item>
-    <title>Stagger, Shuttle, or Caravan: Plan Group Arrivals Calmly</title>
-    <link>https://theretreatregister.com/updates/group-arrival-plan/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/group-arrival-plan/</guid>
-    <pubDate>Mon, 07 Sep 2026 14:33:01 +0000</pubDate>
-    <description>Arrival is the first session of the retreat. Three arrival models, and how to pick the one that fits the group and the venue.</description>
   </item>
 
 </channel>
