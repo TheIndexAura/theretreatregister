@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 25 Sep 2026 13:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 13:33:01 +0000</lastBuildDate>
+
+  <item>
+    <title>The Room Block Cutoff Date: Plan Around When Rooms May Leave the Block</title>
+    <link>https://theretreatregister.com/updates/room-block-cutoff-date/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/room-block-cutoff-date/</guid>
+    <pubDate>Sat, 26 Sep 2026 13:33:01 +0000</pubDate>
+    <description>A cutoff clause states when unbooked rooms in a group block may return to general inventory. How to ask about the date, and what to do before it.</description>
+  </item>
 
   <item>
     <title>Room Blocks Explained: Learn the Terms Before You Reserve Group Rooms</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/offsite-vs-retreat/</guid>
     <pubDate>Thu, 10 Sep 2026 01:48:01 +0000</pubDate>
     <description>The same word hides two products: boardroom privacy for a few decision-makers, or connection space for the whole team.</description>
-  </item>
-
-  <item>
-    <title>Bring Your Own Facilitator or Book the Venue&#x27;s? How to Decide</title>
-    <link>https://theretreatregister.com/updates/facilitator-question/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/facilitator-question/</guid>
-    <pubDate>Wed, 09 Sep 2026 18:48:01 +0000</pubDate>
-    <description>Who runs the room changes what the venue needs to provide. A short decision rule for each path, asked before booking.</description>
   </item>
 
 </channel>
