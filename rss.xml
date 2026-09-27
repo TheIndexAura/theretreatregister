@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 26 Sep 2026 13:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 13:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>The Food and Beverage Minimum: Know What Your Group Must Spend</title>
+    <link>https://theretreatregister.com/updates/food-and-beverage-minimum/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/food-and-beverage-minimum/</guid>
+    <pubDate>Sun, 27 Sep 2026 13:03:00 +0000</pubDate>
+    <description>A food and beverage minimum is the least a group agrees to spend on catering. What counts toward it, what does not, and what happens if the group falls short.</description>
+  </item>
 
   <item>
     <title>The Room Block Cutoff Date: Plan Around When Rooms May Leave the Block</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/state-spotlight-tennessee/</guid>
     <pubDate>Thu, 10 Sep 2026 14:48:00 +0000</pubDate>
     <description>Smoky Mountain cabins, walkable small towns, and a huge share of the country within a day&#x27;s drive - Tennessee works hard for groups.</description>
-  </item>
-
-  <item>
-    <title>Executive Offsite or Team Retreat? Two Different Venue Searches</title>
-    <link>https://theretreatregister.com/updates/offsite-vs-retreat/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/offsite-vs-retreat/</guid>
-    <pubDate>Thu, 10 Sep 2026 01:48:01 +0000</pubDate>
-    <description>The same word hides two products: boardroom privacy for a few decision-makers, or connection space for the whole team.</description>
   </item>
 
 </channel>
