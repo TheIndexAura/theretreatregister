@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 27 Sep 2026 13:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 21:18:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat Cancellation Clauses: Read the Date-Based Charges Before You Sign</title>
+    <link>https://theretreatregister.com/updates/cancellation-clause/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/cancellation-clause/</guid>
+    <pubDate>Mon, 28 Sep 2026 21:18:02 +0000</pubDate>
+    <description>Some venue contracts charge more to cancel as the date gets closer. How a sliding scale works and which terms are worth asking about.</description>
+  </item>
 
   <item>
     <title>The Food and Beverage Minimum: Know What Your Group Must Spend</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/fall-foliage-timing/</guid>
     <pubDate>Fri, 11 Sep 2026 03:48:02 +0000</pubDate>
     <description>Peak-leaf weeks behave like high season. Timing a fall retreat either buys the view or buys a bidding war.</description>
-  </item>
-
-  <item>
-    <title>Tennessee Retreat Venues: Mountains, Music Towns, and Drive-To Reach</title>
-    <link>https://theretreatregister.com/updates/state-spotlight-tennessee/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/state-spotlight-tennessee/</guid>
-    <pubDate>Thu, 10 Sep 2026 14:48:00 +0000</pubDate>
-    <description>Smoky Mountain cabins, walkable small towns, and a huge share of the country within a day&#x27;s drive - Tennessee works hard for groups.</description>
   </item>
 
 </channel>
