@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 28 Sep 2026 21:18:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 22:18:03 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Ask to Move a Retreat Date and Put the Terms in Writing</title>
+    <link>https://theretreatregister.com/updates/reschedule-a-retreat/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/reschedule-a-retreat/</guid>
+    <pubDate>Tue, 29 Sep 2026 22:18:03 +0000</pubDate>
+    <description>A date change is a different request from a cancellation. How to ask for one, and what to get in writing.</description>
+  </item>
 
   <item>
     <title>Retreat Cancellation Clauses: Read the Date-Based Charges Before You Sign</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/day-two-slump/</guid>
     <pubDate>Fri, 11 Sep 2026 23:03:01 +0000</pubDate>
     <description>Energy dips on the second day are predictable - which makes pacing a design input, not a surprise.</description>
-  </item>
-
-  <item>
-    <title>Fall Retreats: Book Around Foliage Windows, Not Against Them</title>
-    <link>https://theretreatregister.com/updates/fall-foliage-timing/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/fall-foliage-timing/</guid>
-    <pubDate>Fri, 11 Sep 2026 03:48:02 +0000</pubDate>
-    <description>Peak-leaf weeks behave like high season. Timing a fall retreat either buys the view or buys a bidding war.</description>
   </item>
 
 </channel>
