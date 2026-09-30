@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 29 Sep 2026 22:18:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 18:33:00 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Check a Venue Booking Before You Send a Deposit</title>
+    <link>https://theretreatregister.com/updates/check-venue-booking-before-deposit/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/check-venue-booking-before-deposit/</guid>
+    <pubDate>Wed, 30 Sep 2026 18:33:00 +0000</pubDate>
+    <description>Look-alike venue listings exist, and a deposit is hard to get back. The desk checks that take minutes, and the payment habits that protect the group.</description>
+  </item>
 
   <item>
     <title>How to Ask to Move a Retreat Date and Put the Terms in Writing</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/event-insurance/</guid>
     <pubDate>Sat, 12 Sep 2026 13:03:00 +0000</pubDate>
     <description>The planner-side policy, separate from the venue&#x27;s coverage - cancellation protection, liability, and the certificate venues ask for.</description>
-  </item>
-
-  <item>
-    <title>Design for the Day-Two Slump: Agenda Pacing That Holds</title>
-    <link>https://theretreatregister.com/updates/day-two-slump/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/day-two-slump/</guid>
-    <pubDate>Fri, 11 Sep 2026 23:03:01 +0000</pubDate>
-    <description>Energy dips on the second day are predictable - which makes pacing a design input, not a surprise.</description>
   </item>
 
 </channel>
