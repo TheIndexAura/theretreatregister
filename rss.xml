@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 30 Sep 2026 18:33:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 18:18:02 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Negotiate a Retreat Venue Quote in One Polite Email</title>
+    <link>https://theretreatregister.com/updates/negotiate-a-venue-quote/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/negotiate-a-venue-quote/</guid>
+    <pubDate>Sun, 04 Oct 2026 18:18:02 +0000</pubDate>
+    <description>A venue quote has more parts than the rate. The terms worth asking about, how to put them in one written request, and how to keep the tone friendly.</description>
+  </item>
 
   <item>
     <title>How to Check a Venue Booking Before You Send a Deposit</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/bathroom-math/</guid>
     <pubDate>Sun, 13 Sep 2026 13:03:00 +0000</pubDate>
     <description>People-per-bathroom predicts morning friction better than almost any amenity - and it takes one minute to calculate from a listing.</description>
-  </item>
-
-  <item>
-    <title>Event Insurance for Retreats: What It Covers, When to Buy</title>
-    <link>https://theretreatregister.com/updates/event-insurance/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/event-insurance/</guid>
-    <pubDate>Sat, 12 Sep 2026 13:03:00 +0000</pubDate>
-    <description>The planner-side policy, separate from the venue&#x27;s coverage - cancellation protection, liability, and the certificate venues ask for.</description>
   </item>
 
 </channel>
