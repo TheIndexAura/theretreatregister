@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 04 Oct 2026 18:18:02 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 02:48:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Define a Corporate Retreat Before You Search for Venues</title>
+    <link>https://theretreatregister.com/updates/what-is-a-corporate-retreat/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/what-is-a-corporate-retreat/</guid>
+    <pubDate>Mon, 05 Oct 2026 02:48:01 +0000</pubDate>
+    <description>A corporate retreat takes a team away from the office, usually overnight, for focused work. A plain definition, and how the goal shapes the venue search.</description>
+  </item>
 
   <item>
     <title>How to Negotiate a Retreat Venue Quote in One Polite Email</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/self-catering-decision/</guid>
     <pubDate>Mon, 14 Sep 2026 13:03:01 +0000</pubDate>
     <description>Kitchen access is a retreat activity for some groups and a hidden job for others. A fit test that runs deeper than the food budget.</description>
-  </item>
-
-  <item>
-    <title>Bathroom Math: the Comfort Number Many Listings Leave Out</title>
-    <link>https://theretreatregister.com/updates/bathroom-math/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/bathroom-math/</guid>
-    <pubDate>Sun, 13 Sep 2026 13:03:00 +0000</pubDate>
-    <description>People-per-bathroom predicts morning friction better than almost any amenity - and it takes one minute to calculate from a listing.</description>
   </item>
 
 </channel>
