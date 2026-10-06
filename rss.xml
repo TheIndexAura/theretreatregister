@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 05 Oct 2026 02:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 13:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Types of Retreats: Match the Format to the Goal Before You Search</title>
+    <link>https://theretreatregister.com/updates/types-of-retreats/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/types-of-retreats/</guid>
+    <pubDate>Tue, 06 Oct 2026 13:03:01 +0000</pubDate>
+    <description>Corporate, wellness, silent, creative, faith-based, and family retreats ask different things of a venue. A guide to the main formats and what to check for each.</description>
+  </item>
 
   <item>
     <title>Define a Corporate Retreat Before You Search for Venues</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/group-glamping/</guid>
     <pubDate>Tue, 15 Sep 2026 14:33:02 +0000</pubDate>
     <description>Glamping photos are shot for two people. Booking one for a group changes what you need to ask, and most of it is not on the listing.</description>
-  </item>
-
-  <item>
-    <title>Self-Catering or Full Catering? Decide by Group, Not Price</title>
-    <link>https://theretreatregister.com/updates/self-catering-decision/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/self-catering-decision/</guid>
-    <pubDate>Mon, 14 Sep 2026 13:03:01 +0000</pubDate>
-    <description>Kitchen access is a retreat activity for some groups and a hidden job for others. A fit test that runs deeper than the food budget.</description>
   </item>
 
 </channel>
