@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 08 Oct 2026 13:03:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 19:48:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Corporate Retreats in the North Carolina Mountains: Choose a Base Town First</title>
+    <link>https://theretreatregister.com/updates/nc-mountains-corporate-retreat/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/nc-mountains-corporate-retreat/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:48:02 +0000</pubDate>
+    <description>In the North Carolina mountains, the base town shapes the trip. How airport access, elevation, and season should steer a company&#x27;s choice of base.</description>
+  </item>
 
   <item>
     <title>Glamping or Cabins? Choose the Right Lodging for Your Group Retreat</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/shipping-to-venue/</guid>
     <pubDate>Thu, 17 Sep 2026 13:03:00 +0000</pubDate>
     <description>Boxes arrive before planners do. Receiving policy, storage, and labeling conventions prevent the missing-box scramble.</description>
-  </item>
-
-  <item>
-    <title>Winter Retreats: Settle the Snow Questions Before You Book</title>
-    <link>https://theretreatregister.com/updates/winter-retreat-logistics/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/winter-retreat-logistics/</guid>
-    <pubDate>Wed, 16 Sep 2026 15:48:00 +0000</pubDate>
-    <description>Plowing, road access, heating capacity, and weather cancellation terms - the homework that makes off-season booking safe.</description>
   </item>
 
 </channel>
