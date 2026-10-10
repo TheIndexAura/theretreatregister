@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 08 Oct 2026 19:48:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 13:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Drive-To Retreats From New York City: Compare the Catskills, Hudson Valley, and Poconos</title>
+    <link>https://theretreatregister.com/updates/drive-to-retreats-from-nyc/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/drive-to-retreats-from-nyc/</guid>
+    <pubDate>Sat, 10 Oct 2026 13:03:01 +0000</pubDate>
+    <description>Three regions sit within a drive of New York City and suit different teams. How to compare them on travel, setting, and the kind of property each one offers.</description>
+  </item>
 
   <item>
     <title>Corporate Retreats in the North Carolina Mountains: Choose a Base Town First</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/nonprofit-retreat-budget/</guid>
     <pubDate>Fri, 18 Sep 2026 00:48:00 +0000</pubDate>
     <description>Off-peak dates, simple lodging tiers, and venues whose mission matches - a search strategy, not a discount hunt.</description>
-  </item>
-
-  <item>
-    <title>Shipping Materials to a Venue: Confirm Receiving First</title>
-    <link>https://theretreatregister.com/updates/shipping-to-venue/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/shipping-to-venue/</guid>
-    <pubDate>Thu, 17 Sep 2026 13:03:00 +0000</pubDate>
-    <description>Boxes arrive before planners do. Receiving policy, storage, and labeling conventions prevent the missing-box scramble.</description>
   </item>
 
 </channel>
