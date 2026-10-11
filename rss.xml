@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 10 Oct 2026 13:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 13:03:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Build a Retreat Planning Timeline That Works Backward From the Date</title>
+    <link>https://theretreatregister.com/updates/retreat-planning-timeline/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-planning-timeline/</guid>
+    <pubDate>Sun, 11 Oct 2026 13:03:01 +0000</pubDate>
+    <description>A retreat has a planned arrival date and a long list of tasks with their own deadlines. A backward-planned checklist, grouped by phase, for first-time organizers.</description>
+  </item>
 
   <item>
     <title>Drive-To Retreats From New York City: Compare the Catskills, Hudson Valley, and Poconos</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-house-vs-center/</guid>
     <pubDate>Fri, 18 Sep 2026 13:48:02 +0000</pubDate>
     <description>The three venue categories serve different group sizes and service levels. Choosing the category first cuts the search in half.</description>
-  </item>
-
-  <item>
-    <title>How Nonprofits Find Retreat Venues That Fit Tight Budgets</title>
-    <link>https://theretreatregister.com/updates/nonprofit-retreat-budget/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/nonprofit-retreat-budget/</guid>
-    <pubDate>Fri, 18 Sep 2026 00:48:00 +0000</pubDate>
-    <description>Off-peak dates, simple lodging tiers, and venues whose mission matches - a search strategy, not a discount hunt.</description>
   </item>
 
 </channel>
