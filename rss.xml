@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 11 Oct 2026 13:03:02 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 14:18:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Team Retreat Activities: Choose by Goal and Check the Venue Can Host Them</title>
+    <link>https://theretreatregister.com/updates/team-retreat-activities/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/team-retreat-activities/</guid>
+    <pubDate>Mon, 12 Oct 2026 14:18:02 +0000</pubDate>
+    <description>An activity earns its place on the agenda when it serves the retreat&#x27;s goal. How to pick by purpose, and the venue questions each kind of activity raises.</description>
+  </item>
 
   <item>
     <title>Build a Retreat Planning Timeline That Works Backward From the Date</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/setting-decision/</guid>
     <pubDate>Sat, 19 Sep 2026 23:33:01 +0000</pubDate>
     <description>Setting is a tool - water calms, elevation isolates, desert strips distraction. Pick by agenda, not postcard.</description>
-  </item>
-
-  <item>
-    <title>Retreat House, Retreat Center, or Lodge? Pick the Category First</title>
-    <link>https://theretreatregister.com/updates/retreat-house-vs-center/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-house-vs-center/</guid>
-    <pubDate>Fri, 18 Sep 2026 13:48:02 +0000</pubDate>
-    <description>The three venue categories serve different group sizes and service levels. Choosing the category first cuts the search in half.</description>
   </item>
 
 </channel>
