@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Oct 2026 14:18:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 13:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat ROI: Build the One-Page Report Planners Send to Leadership</title>
+    <link>https://theretreatregister.com/updates/retreat-roi/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-roi/</guid>
+    <pubDate>Tue, 20 Oct 2026 13:03:00 +0000</pubDate>
+    <description>Show leadership what a retreat achieved. Pick one or two outcomes before the trip, log each decision and its owner, and send a one-page report within two weeks.</description>
+  </item>
 
   <item>
     <title>Team Retreat Activities: Choose by Goal and Check the Venue Can Host Them</title>
@@ -121,35 +129,35 @@
   </item>
 
   <item>
-    <title>Hotel Room Block Meaning: Find Out Which Kind Organizers Pay For</title>
+    <title>Room Blocks Explained: Learn the Terms Before You Reserve Group Rooms</title>
     <link>https://theretreatregister.com/updates/room-block-explained/</link>
     <guid isPermaLink="true">https://theretreatregister.com/updates/room-block-explained/</guid>
     <pubDate>Fri, 25 Sep 2026 13:03:01 +0000</pubDate>
-    <description>A room block holds hotel rooms for a group under one contract. What pickup, cutoff and attrition mean, and which kind of block commits the group to pay.</description>
+    <description>A room block holds rooms for a group under one contract. How the block, the pickup, and the attrition terms fit together.</description>
   </item>
 
   <item>
-    <title>Retreat Liability Waivers: Hosts Decide What Guests Sign and When</title>
+    <title>Liability Waivers for Retreats: Decide What Guests Sign and When</title>
     <link>https://theretreatregister.com/updates/liability-waivers/</link>
     <guid isPermaLink="true">https://theretreatregister.com/updates/liability-waivers/</guid>
     <pubDate>Wed, 23 Sep 2026 14:33:00 +0000</pubDate>
-    <description>Sort retreat activities by who runs them, get each operator's waiver answer in writing, send the forms with registration, and record who signed.</description>
+    <description>Hikes, cold plunges, horses, and ropes courses can raise the waiver question. Who writes it, who collects it, and when guests should see it.</description>
   </item>
 
   <item>
-    <title>Indemnification Clause Meaning: How Planners Find Out Who Pays</title>
+    <title>The Indemnification Clause: Find Out Who Pays When Something Goes Wrong</title>
     <link>https://theretreatregister.com/updates/indemnification-clause/</link>
     <guid isPermaLink="true">https://theretreatregister.com/updates/indemnification-clause/</guid>
     <pubDate>Tue, 22 Sep 2026 14:18:01 +0000</pubDate>
-    <description>To indemnify means to pay for losses that arise from the other party's actions. How to read that clause in a venue contract, and what to bring to an attorney.</description>
+    <description>One paragraph in a venue contract deals with who bears the cost of an accident or a claim. How to read it, and the questions to bring to an attorney.</description>
   </item>
 
   <item>
-    <title>Retreat Liability Insurance: What Hosts Get in Writing Before Signing</title>
+    <title>Retreat Liability Insurance: Ask Who Covers the Facilitators and Vendors You Bring</title>
     <link>https://theretreatregister.com/updates/retreat-liability-insurance/</link>
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-liability-insurance/</guid>
     <pubDate>Mon, 21 Sep 2026 14:03:01 +0000</pubDate>
-    <description>Retreat liability insurance covers injury and damage claims. The written questions that show whose policy applies: the venue's, the host's, or each vendor's.</description>
+    <description>A retreat may bring in an outside teacher, guide, or caterer. The written questions that show whose insurance applies to them, before the contract is signed.</description>
   </item>
 
   <item>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/day-retreat/</guid>
     <pubDate>Sun, 20 Sep 2026 15:33:02 +0000</pubDate>
     <description>Sometimes eight focused hours beat two logistics-heavy nights. The honest test for going overnight-free.</description>
-  </item>
-
-  <item>
-    <title>Lake, Mountain, or Desert: Match the Setting to the Retreat&#x27;s Job</title>
-    <link>https://theretreatregister.com/updates/setting-decision/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/setting-decision/</guid>
-    <pubDate>Sat, 19 Sep 2026 23:33:01 +0000</pubDate>
-    <description>Setting is a tool - water calms, elevation isolates, desert strips distraction. Pick by agenda, not postcard.</description>
   </item>
 
 </channel>
