@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 20 Oct 2026 13:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 19:33:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat Center Insurance: What Owners Carry Before Hosting Groups</title>
+    <link>https://theretreatregister.com/updates/retreat-center-insurance/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-center-insurance/</guid>
+    <pubDate>Wed, 21 Oct 2026 19:33:02 +0000</pubDate>
+    <description>The cover a retreat center holds before groups arrive, and the proof of insurance owners ask each renting group to send.</description>
+  </item>
 
   <item>
     <title>Retreat ROI: Build the One-Page Report Planners Send to Leadership</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-liability-insurance/</guid>
     <pubDate>Mon, 21 Sep 2026 14:03:01 +0000</pubDate>
     <description>A retreat may bring in an outside teacher, guide, or caterer. The written questions that show whose insurance applies to them, before the contract is signed.</description>
-  </item>
-
-  <item>
-    <title>The One-Day Retreat: When Skipping the Overnight Is Right</title>
-    <link>https://theretreatregister.com/updates/day-retreat/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/day-retreat/</guid>
-    <pubDate>Sun, 20 Sep 2026 15:33:02 +0000</pubDate>
-    <description>Sometimes eight focused hours beat two logistics-heavy nights. The honest test for going overnight-free.</description>
   </item>
 
 </channel>
