@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 23 Oct 2026 13:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 20:03:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Team Retreat Agenda: Build a Two-Day Schedule With Free Time</title>
+    <link>https://theretreatregister.com/updates/team-retreat-agenda/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/team-retreat-agenda/</guid>
+    <pubDate>Fri, 23 Oct 2026 20:03:02 +0000</pubDate>
+    <description>A two-day team retreat agenda with focused mornings, free afternoons and one shared evening, plus who runs each block.</description>
+  </item>
 
   <item>
     <title>Hiring a DJ for a Company Offsite: What Planners Ask the Venue</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/liability-waivers/</guid>
     <pubDate>Wed, 23 Sep 2026 14:33:00 +0000</pubDate>
     <description>Hikes, cold plunges, horses, and ropes courses can raise the waiver question. Who writes it, who collects it, and when guests should see it.</description>
-  </item>
-
-  <item>
-    <title>The Indemnification Clause: Find Out Who Pays When Something Goes Wrong</title>
-    <link>https://theretreatregister.com/updates/indemnification-clause/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/indemnification-clause/</guid>
-    <pubDate>Tue, 22 Sep 2026 14:18:01 +0000</pubDate>
-    <description>One paragraph in a venue contract deals with who bears the cost of an accident or a claim. How to read it, and the questions to bring to an attorney.</description>
   </item>
 
 </channel>
