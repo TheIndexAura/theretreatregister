@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 23 Oct 2026 20:03:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 01:48:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Leadership Retreat Topics: Choose the Few the Team Must Decide</title>
+    <link>https://theretreatregister.com/updates/leadership-retreat-topics/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/leadership-retreat-topics/</guid>
+    <pubDate>Sun, 25 Oct 2026 01:48:00 +0000</pubDate>
+    <description>How to pick leadership retreat topics the team must decide together, and keep the list shorter than the days allow.</description>
+  </item>
 
   <item>
     <title>Team Retreat Agenda: Build a Two-Day Schedule With Free Time</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/room-block-explained/</guid>
     <pubDate>Fri, 25 Sep 2026 13:03:01 +0000</pubDate>
     <description>A room block holds rooms for a group under one contract. How the block, the pickup, and the attrition terms fit together.</description>
-  </item>
-
-  <item>
-    <title>Liability Waivers for Retreats: Decide What Guests Sign and When</title>
-    <link>https://theretreatregister.com/updates/liability-waivers/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/liability-waivers/</guid>
-    <pubDate>Wed, 23 Sep 2026 14:33:00 +0000</pubDate>
-    <description>Hikes, cold plunges, horses, and ropes courses can raise the waiver question. Who writes it, who collects it, and when guests should see it.</description>
   </item>
 
 </channel>
