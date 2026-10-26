@@ -1,7 +1,6 @@
 {
   "name": "The Retreat Register",
   "short_name": "Retreat Register",
-  "description": "A national register of corporate retreat venues. Every venue checked. No pay-to-play.",
   "id": "/",
   "start_url": "/",
   "scope": "/",
