@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 26 Oct 2026 22:03:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 13:03:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Hotel Attrition Allowance: How Planners Read It Before Signing</title>
+    <link>https://theretreatregister.com/updates/attrition-allowance/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/attrition-allowance/</guid>
+    <pubDate>Tue, 27 Oct 2026 13:03:02 +0000</pubDate>
+    <description>What the attrition allowance in a room block contract means, and how to tell whether it counts per night or over the whole stay.</description>
+  </item>
 
   <item>
     <title>How to Plan a Board Retreat: Set the Objectives, Then Pick the Room</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/food-and-beverage-minimum/</guid>
     <pubDate>Sun, 27 Sep 2026 13:03:00 +0000</pubDate>
     <description>A food and beverage minimum is the least a group agrees to spend on catering. What counts toward it, what does not, and what happens if the group falls short.</description>
-  </item>
-
-  <item>
-    <title>The Room Block Cutoff Date: Plan Around When Rooms May Leave the Block</title>
-    <link>https://theretreatregister.com/updates/room-block-cutoff-date/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/room-block-cutoff-date/</guid>
-    <pubDate>Sat, 26 Sep 2026 13:33:01 +0000</pubDate>
-    <description>A cutoff clause states when unbooked rooms in a group block may return to general inventory. How to ask about the date, and what to do before it.</description>
   </item>
 
 </channel>
