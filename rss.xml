@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 27 Oct 2026 20:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 14:03:17 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat Venue Contract: The Clauses Planners Read Before Signing</title>
+    <link>https://theretreatregister.com/updates/venue-contract-clauses/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/venue-contract-clauses/</guid>
+    <pubDate>Wed, 28 Oct 2026 14:03:17 +0000</pubDate>
+    <description>The sections of a retreat venue contract to read before the price: rooms, meeting space, food minimums, deposits and cancellation.</description>
+  </item>
 
   <item>
     <title>Offsite Meaning for Organizers: What a Company Offsite Covers</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/reschedule-a-retreat/</guid>
     <pubDate>Tue, 29 Sep 2026 22:18:03 +0000</pubDate>
     <description>A date change is a different request from a cancellation. How to ask for one, and what to get in writing.</description>
-  </item>
-
-  <item>
-    <title>Retreat Cancellation Clauses: Read the Date-Based Charges Before You Sign</title>
-    <link>https://theretreatregister.com/updates/cancellation-clause/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/cancellation-clause/</guid>
-    <pubDate>Mon, 28 Sep 2026 21:18:02 +0000</pubDate>
-    <description>Some venue contracts charge more to cancel as the date gets closer. How a sliding scale works and which terms are worth asking about.</description>
   </item>
 
 </channel>
