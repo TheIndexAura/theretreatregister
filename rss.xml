@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 28 Oct 2026 14:03:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 21:48:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Youth Retreat Ideas: Plan the Program and the Supervision Together</title>
+    <link>https://theretreatregister.com/updates/youth-retreat-ideas/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/youth-retreat-ideas/</guid>
+    <pubDate>Wed, 28 Oct 2026 21:48:01 +0000</pubDate>
+    <description>Youth retreat ideas planned beside their supervision: who watches each activity, where it happens, and what the permission form covers.</description>
+  </item>
 
   <item>
     <title>Retreat Venue Contract: The Clauses Planners Read Before Signing</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/check-venue-booking-before-deposit/</guid>
     <pubDate>Wed, 30 Sep 2026 18:33:00 +0000</pubDate>
     <description>Look-alike venue listings exist, and a deposit is hard to get back. The desk checks that take minutes, and the payment habits that protect the group.</description>
-  </item>
-
-  <item>
-    <title>How to Ask to Move a Retreat Date and Put the Terms in Writing</title>
-    <link>https://theretreatregister.com/updates/reschedule-a-retreat/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/reschedule-a-retreat/</guid>
-    <pubDate>Tue, 29 Sep 2026 22:18:03 +0000</pubDate>
-    <description>A date change is a different request from a cancellation. How to ask for one, and what to get in writing.</description>
   </item>
 
 </channel>
