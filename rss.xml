@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 28 Oct 2026 21:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 19:33:00 +0000</lastBuildDate>
+
+  <item>
+    <title>Strategic Planning Retreat Agenda: Sessions That End in Decisions</title>
+    <link>https://theretreatregister.com/updates/strategic-planning-retreat-agenda/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/strategic-planning-retreat-agenda/</guid>
+    <pubDate>Fri, 30 Oct 2026 19:33:00 +0000</pubDate>
+    <description>A strategic planning retreat agenda where every session answers one question and the day ends with decisions that have owners.</description>
+  </item>
 
   <item>
     <title>Youth Retreat Ideas: Plan the Program and the Supervision Together</title>
@@ -129,7 +137,7 @@
   </item>
 
   <item>
-    <title>How to Host a Silent Retreat: Choose a Venue That Can Hold the Quiet</title>
+    <title>Host a Silent Retreat: How Planners Choose a Venue That Keeps the Quiet</title>
     <link>https://theretreatregister.com/updates/host-a-silent-retreat/</link>
     <guid isPermaLink="true">https://theretreatregister.com/updates/host-a-silent-retreat/</guid>
     <pubDate>Wed, 07 Oct 2026 19:48:01 +0000</pubDate>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/negotiate-a-venue-quote/</guid>
     <pubDate>Sun, 04 Oct 2026 18:18:02 +0000</pubDate>
     <description>A venue quote has more parts than the rate. The terms worth asking about, how to put them in one written request, and how to keep the tone friendly.</description>
-  </item>
-
-  <item>
-    <title>How to Check a Venue Booking Before You Send a Deposit</title>
-    <link>https://theretreatregister.com/updates/check-venue-booking-before-deposit/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/check-venue-booking-before-deposit/</guid>
-    <pubDate>Wed, 30 Sep 2026 18:33:00 +0000</pubDate>
-    <description>Look-alike venue listings exist, and a deposit is hard to get back. The desk checks that take minutes, and the payment habits that protect the group.</description>
   </item>
 
 </channel>
