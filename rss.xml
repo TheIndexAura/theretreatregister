@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 31 Oct 2026 18:18:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 21:33:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Yoga Retreat Insurance: Hosts Check Whether Teacher Cover Travels</title>
+    <link>https://theretreatregister.com/updates/yoga-retreat-insurance/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/yoga-retreat-insurance/</guid>
+    <pubDate>Sun, 01 Nov 2026 21:33:01 +0000</pubDate>
+    <description>Whether a yoga teacher&#x27;s own policy covers teaching at a retreat, and the questions a host puts to the insurer in writing.</description>
+  </item>
 
   <item>
     <title>Family Reunion Organizers: Choose a Lodge, Cabins or a Group Camp</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/types-of-retreats/</guid>
     <pubDate>Tue, 06 Oct 2026 13:03:01 +0000</pubDate>
     <description>Corporate, wellness, silent, creative, faith-based, and family retreats ask different things of a venue. A guide to the main formats and what to check for each.</description>
-  </item>
-
-  <item>
-    <title>Define a Corporate Retreat Before You Search for Venues</title>
-    <link>https://theretreatregister.com/updates/what-is-a-corporate-retreat/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/what-is-a-corporate-retreat/</guid>
-    <pubDate>Mon, 05 Oct 2026 02:48:01 +0000</pubDate>
-    <description>A corporate retreat takes a team away from the office, usually overnight, for focused work. A plain definition, and how the goal shapes the venue search.</description>
   </item>
 
 </channel>
