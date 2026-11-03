@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 01 Nov 2026 21:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 14:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Corporate Retreat, the 2026 Film: How Real Retreat Planning Differs</title>
+    <link>https://theretreatregister.com/updates/corporate-retreat-film/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/corporate-retreat-film/</guid>
+    <pubDate>Tue, 03 Nov 2026 14:03:01 +0000</pubDate>
+    <description>The film Corporate Retreat set beside how a real company retreat is planned, from the goal to the venue contract.</description>
+  </item>
 
   <item>
     <title>Yoga Retreat Insurance: Hosts Check Whether Teacher Cover Travels</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/host-a-silent-retreat/</guid>
     <pubDate>Wed, 07 Oct 2026 19:48:01 +0000</pubDate>
     <description>A loud, shared, or conversation-centered venue works against a silent retreat. The property checks that matter before a teacher or organizer books.</description>
-  </item>
-
-  <item>
-    <title>Types of Retreats: Match the Format to the Goal Before You Search</title>
-    <link>https://theretreatregister.com/updates/types-of-retreats/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/types-of-retreats/</guid>
-    <pubDate>Tue, 06 Oct 2026 13:03:01 +0000</pubDate>
-    <description>Corporate, wellness, silent, creative, faith-based, and family retreats ask different things of a venue. A guide to the main formats and what to check for each.</description>
   </item>
 
 </channel>
