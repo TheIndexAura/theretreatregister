@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Nov 2026 14:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 14:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Plan a Women&#x27;s Retreat: A Checklist From Venue to Last Night</title>
+    <link>https://theretreatregister.com/updates/womens-retreat-plan/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/womens-retreat-plan/</guid>
+    <pubDate>Thu, 05 Nov 2026 14:03:00 +0000</pubDate>
+    <description>A women&#x27;s retreat checklist that works for a church group or a group of friends, from the venue to the last night.</description>
+  </item>
 
   <item>
     <title>Corporate Retreat, the 2026 Film: How Real Retreat Planning Differs</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/glamping-vs-cabins/</guid>
     <pubDate>Thu, 08 Oct 2026 13:03:02 +0000</pubDate>
     <description>Canvas tents and cabins can sit on the same property and suit very different groups. A side-by-side look at weather, bathrooms, sleep, and working space.</description>
-  </item>
-
-  <item>
-    <title>Host a Silent Retreat: How Planners Choose a Venue That Keeps the Quiet</title>
-    <link>https://theretreatregister.com/updates/host-a-silent-retreat/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/host-a-silent-retreat/</guid>
-    <pubDate>Wed, 07 Oct 2026 19:48:01 +0000</pubDate>
-    <description>A loud, shared, or conversation-centered venue works against a silent retreat. The property checks that matter before a teacher or organizer books.</description>
   </item>
 
 </channel>
