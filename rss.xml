@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 05 Nov 2026 20:48:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 14:03:01 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat Themes for Work: Pick One the Agenda Can Carry</title>
+    <link>https://theretreatregister.com/updates/retreat-themes-work/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-themes-work/</guid>
+    <pubDate>Sat, 07 Nov 2026 14:03:01 +0000</pubDate>
+    <description>Pick a work retreat theme that names the goal, then let it shape the sessions, the venue and the invite.</description>
+  </item>
 
   <item>
     <title>Retreat Food Menu: Plan Group Meals Around the Sessions</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/drive-to-retreats-from-nyc/</guid>
     <pubDate>Sat, 10 Oct 2026 13:03:01 +0000</pubDate>
     <description>Three regions sit within a drive of New York City and suit different teams. How to compare them on travel, setting, and the kind of property each one offers.</description>
-  </item>
-
-  <item>
-    <title>Corporate Retreats in the North Carolina Mountains: Choose a Base Town First</title>
-    <link>https://theretreatregister.com/updates/nc-mountains-corporate-retreat/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/nc-mountains-corporate-retreat/</guid>
-    <pubDate>Thu, 08 Oct 2026 19:48:02 +0000</pubDate>
-    <description>In the North Carolina mountains, the base town shapes the trip. How airport access, elevation, and season should steer a company&#x27;s choice of base.</description>
   </item>
 
 </channel>
