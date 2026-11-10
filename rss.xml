@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 07 Nov 2026 14:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 14:48:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Family Retreat Ideas: Plan a Multi-Generation Weekend Under One Roof</title>
+    <link>https://theretreatregister.com/updates/family-retreat-ideas/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/family-retreat-ideas/</guid>
+    <pubDate>Tue, 10 Nov 2026 14:48:02 +0000</pubDate>
+    <description>Plan a family retreat where every age fits: a place that sleeps everyone, a kitchen to share and quiet rooms for rest.</description>
+  </item>
 
   <item>
     <title>Retreat Themes for Work: Pick One the Agenda Can Carry</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-planning-timeline/</guid>
     <pubDate>Sun, 11 Oct 2026 13:03:01 +0000</pubDate>
     <description>A retreat has a planned arrival date and a long list of tasks with their own deadlines. A backward-planned checklist, grouped by phase, for first-time organizers.</description>
-  </item>
-
-  <item>
-    <title>Drive-To Retreats From New York City: Compare the Catskills, Hudson Valley, and Poconos</title>
-    <link>https://theretreatregister.com/updates/drive-to-retreats-from-nyc/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/drive-to-retreats-from-nyc/</guid>
-    <pubDate>Sat, 10 Oct 2026 13:03:01 +0000</pubDate>
-    <description>Three regions sit within a drive of New York City and suit different teams. How to compare them on travel, setting, and the kind of property each one offers.</description>
   </item>
 
 </channel>
