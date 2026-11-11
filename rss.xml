@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 10 Nov 2026 14:48:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 14:03:00 +0000</lastBuildDate>
+
+  <item>
+    <title>How to Plan a Church Retreat: Protect Minors and Volunteers First</title>
+    <link>https://theretreatregister.com/updates/church-retreat-plan/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/church-retreat-plan/</guid>
+    <pubDate>Wed, 11 Nov 2026 14:03:00 +0000</pubDate>
+    <description>Plan a church retreat around the people it must protect: a coordinator, permission forms for minors and the venue&#x27;s insurance in writing.</description>
+  </item>
 
   <item>
     <title>Family Retreat Ideas: Plan a Multi-Generation Weekend Under One Roof</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/team-retreat-activities/</guid>
     <pubDate>Mon, 12 Oct 2026 14:18:02 +0000</pubDate>
     <description>An activity earns its place on the agenda when it serves the retreat&#x27;s goal. How to pick by purpose, and the venue questions each kind of activity raises.</description>
-  </item>
-
-  <item>
-    <title>Build a Retreat Planning Timeline That Works Backward From the Date</title>
-    <link>https://theretreatregister.com/updates/retreat-planning-timeline/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-planning-timeline/</guid>
-    <pubDate>Sun, 11 Oct 2026 13:03:01 +0000</pubDate>
-    <description>A retreat has a planned arrival date and a long list of tasks with their own deadlines. A backward-planned checklist, grouped by phase, for first-time organizers.</description>
   </item>
 
 </channel>
