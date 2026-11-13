@@ -6,7 +6,15 @@
   <atom:link href="https://theretreatregister.com/rss.xml" rel="self" type="application/rss+xml"/>
   <description>Verification progress from The Retreat Register, published with real numbers: coverage snapshots, data findings, and what gets cut from the register and why.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Nov 2026 14:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 01:03:02 +0000</lastBuildDate>
+
+  <item>
+    <title>Retreat Packing List: What Guests Bring and What Stays Home</title>
+    <link>https://theretreatregister.com/updates/retreat-packing-list/</link>
+    <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-packing-list/</guid>
+    <pubDate>Fri, 13 Nov 2026 01:03:02 +0000</pubDate>
+    <description>A retreat packing list that adapts to silent, church and outdoor retreats, with a check on what the venue already supplies.</description>
+  </item>
 
   <item>
     <title>How to Plan a Church Retreat: Protect Minors and Volunteers First</title>
@@ -158,14 +166,6 @@
     <guid isPermaLink="true">https://theretreatregister.com/updates/retreat-roi/</guid>
     <pubDate>Tue, 20 Oct 2026 13:03:00 +0000</pubDate>
     <description>Show leadership what a retreat achieved. Pick one or two outcomes before the trip, log each decision and its owner, and send a one-page report within two weeks.</description>
-  </item>
-
-  <item>
-    <title>Team Retreat Activities: Choose by Goal and Check the Venue Can Host Them</title>
-    <link>https://theretreatregister.com/updates/team-retreat-activities/</link>
-    <guid isPermaLink="true">https://theretreatregister.com/updates/team-retreat-activities/</guid>
-    <pubDate>Mon, 12 Oct 2026 14:18:02 +0000</pubDate>
-    <description>An activity earns its place on the agenda when it serves the retreat&#x27;s goal. How to pick by purpose, and the venue questions each kind of activity raises.</description>
   </item>
 
 </channel>
